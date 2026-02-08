@@ -1,0 +1,29 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+<h2>Name: @ViewBag.Name</h2>
+<h2>Id: @ViewBag.Id</h2>
+<h2>Id: @ViewData["Cgpa"]</h2>
+
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <th>Title</th>
+            <th>Year</th>
+            <th>Result</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.Title</td>
+                <td>@item.Year</td>
+                <td>@item.Result</td>
+            </tr>
+        }
+        
+    </tbody>
+</table>
