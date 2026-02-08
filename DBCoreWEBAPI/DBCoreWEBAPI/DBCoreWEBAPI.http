@@ -1,6 +1,0 @@
-@DBCoreWEBAPI_HostAddress = http://localhost:5291
-
-GET {{DBCoreWEBAPI_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###
