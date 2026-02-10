@@ -9,7 +9,11 @@ namespace IntroMVCCore.Controllers
         {
             return View();
         }
-        public IActionResult Education() { 
+        public IActionResult Education() {
+            var test = 68;
+            if (test>67) {
+                return RedirectToAction("Education2");
+            }
             return View();
         }
         public IActionResult Education2() {
