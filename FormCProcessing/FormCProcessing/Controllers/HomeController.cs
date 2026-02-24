@@ -27,6 +27,7 @@ namespace FormCProcessing.Controllers
             return View(new RegistrationModel());
         }
         [HttpPost]
+        [ValidateAntiForgeryToken]
         public IActionResult Registration(RegistrationModel obj) {
             if (ModelState.IsValid) {
                 TempData["Msg"] = "Regisrtation Successful";

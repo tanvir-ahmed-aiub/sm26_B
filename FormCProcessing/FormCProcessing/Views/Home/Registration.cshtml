@@ -34,9 +34,10 @@
         return false;
     }
 }
-
 @Html.ValidationSummary()
+
 <form action="" method="post">
+    @Html.AntiForgeryToken()
     <input type="text" name="Name" value="@Model.Name" placeholder="Name" class="form-control" />
     <span class="text-danger">@Html.ValidationMessage("Name")</span>
     <input type="text" name="Email" value="@Model.Email" placeholder="Email" class="form-control" />
