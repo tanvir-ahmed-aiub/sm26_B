@@ -3,28 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\B\\FormCProcessing\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1C250033-B564-43BC-AC6B-B3CC60F4C05E}|FormCProcessing\\FormCProcessing.csproj|c:\\users\\tanvir ahmed\\desktop\\.net\\b\\formcprocessing\\formcprocessing\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{1C250033-B564-43BC-AC6B-B3CC60F4C05E}|FormCProcessing\\FormCProcessing.csproj|solutionrelative:formcprocessing\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{9AC22D20-0FE3-E5B0-CDE6-BECAA51E0DB6}|FormCProcessing\\FormCProcessing.csproj|c:\\users\\tanvir ahmed\\desktop\\.net\\b\\formcprocessing\\formcprocessing\\views\\home\\registration.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9AC22D20-0FE3-E5B0-CDE6-BECAA51E0DB6}|FormCProcessing\\FormCProcessing.csproj|solutionrelative:formcprocessing\\views\\home\\registration.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1C250033-B564-43BC-AC6B-B3CC60F4C05E}|FormCProcessing\\FormCProcessing.csproj|c:\\users\\tanvir ahmed\\desktop\\.net\\b\\formcprocessing\\formcprocessing\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1C250033-B564-43BC-AC6B-B3CC60F4C05E}|FormCProcessing\\FormCProcessing.csproj|solutionrelative:formcprocessing\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9AC22D20-0FE3-E5B0-CDE6-BECAA51E0DB6}|FormCProcessing\\FormCProcessing.csproj|c:\\users\\tanvir ahmed\\desktop\\.net\\b\\formcprocessing\\formcprocessing\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AC22D20-0FE3-E5B0-CDE6-BECAA51E0DB6}|FormCProcessing\\FormCProcessing.csproj|solutionrelative:formcprocessing\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1C250033-B564-43BC-AC6B-B3CC60F4C05E}|FormCProcessing\\FormCProcessing.csproj|c:\\users\\tanvir ahmed\\desktop\\.net\\b\\formcprocessing\\formcprocessing\\views\\home\\registration.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{1C250033-B564-43BC-AC6B-B3CC60F4C05E}|FormCProcessing\\FormCProcessing.csproj|solutionrelative:formcprocessing\\views\\home\\registration.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{9AC22D20-0FE3-E5B0-CDE6-BECAA51E0DB6}|FormCProcessing\\FormCProcessing.csproj|c:\\users\\tanvir ahmed\\desktop\\.net\\b\\formcprocessing\\formcprocessing\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{9AC22D20-0FE3-E5B0-CDE6-BECAA51E0DB6}|FormCProcessing\\FormCProcessing.csproj|solutionrelative:formcprocessing\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1C250033-B564-43BC-AC6B-B3CC60F4C05E}|FormCProcessing\\FormCProcessing.csproj|c:\\users\\tanvir ahmed\\desktop\\.net\\b\\formcprocessing\\formcprocessing\\models\\registrationmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1C250033-B564-43BC-AC6B-B3CC60F4C05E}|FormCProcessing\\FormCProcessing.csproj|solutionrelative:formcprocessing\\models\\registrationmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9AC22D20-0FE3-E5B0-CDE6-BECAA51E0DB6}|FormCProcessing\\FormCProcessing.csproj|c:\\users\\tanvir ahmed\\desktop\\.net\\b\\formcprocessing\\formcprocessing\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9AC22D20-0FE3-E5B0-CDE6-BECAA51E0DB6}|FormCProcessing\\FormCProcessing.csproj|solutionrelative:formcprocessing\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1C250033-B564-43BC-AC6B-B3CC60F4C05E}|FormCProcessing\\FormCProcessing.csproj|c:\\users\\tanvir ahmed\\desktop\\.net\\b\\formcprocessing\\formcprocessing\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1C250033-B564-43BC-AC6B-B3CC60F4C05E}|FormCProcessing\\FormCProcessing.csproj|solutionrelative:formcprocessing\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9AC22D20-0FE3-E5B0-CDE6-BECAA51E0DB6}|FormCProcessing\\FormCProcessing.csproj|c:\\users\\tanvir ahmed\\desktop\\.net\\b\\formcprocessing\\formcprocessing\\models\\registrationmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AC22D20-0FE3-E5B0-CDE6-BECAA51E0DB6}|FormCProcessing\\FormCProcessing.csproj|solutionrelative:formcprocessing\\models\\registrationmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1C250033-B564-43BC-AC6B-B3CC60F4C05E}|FormCProcessing\\FormCProcessing.csproj|c:\\users\\tanvir ahmed\\desktop\\.net\\b\\formcprocessing\\formcprocessing\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1C250033-B564-43BC-AC6B-B3CC60F4C05E}|FormCProcessing\\FormCProcessing.csproj|solutionrelative:formcprocessing\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9AC22D20-0FE3-E5B0-CDE6-BECAA51E0DB6}|FormCProcessing\\FormCProcessing.csproj|c:\\users\\tanvir ahmed\\desktop\\.net\\b\\formcprocessing\\formcprocessing\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AC22D20-0FE3-E5B0-CDE6-BECAA51E0DB6}|FormCProcessing\\FormCProcessing.csproj|solutionrelative:formcprocessing\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AC22D20-0FE3-E5B0-CDE6-BECAA51E0DB6}|FormCProcessing\\FormCProcessing.csproj|c:\\users\\tanvir ahmed\\desktop\\.net\\b\\formcprocessing\\formcprocessing\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AC22D20-0FE3-E5B0-CDE6-BECAA51E0DB6}|FormCProcessing\\FormCProcessing.csproj|solutionrelative:formcprocessing\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,11 +38,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "RegistrationModel.cs",
               "DocumentMoniker": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\B\\FormCProcessing\\FormCProcessing\\Models\\RegistrationModel.cs",
               "RelativeDocumentMoniker": "FormCProcessing\\Models\\RegistrationModel.cs",
@@ -46,25 +50,24 @@
               "RelativeToolTip": "FormCProcessing\\Models\\RegistrationModel.cs",
               "ViewState": "AgIAAAUAAAAAAAAAAAAIwAkAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-17T10:26:04.419Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-17T10:26:04.419Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Registration.cshtml",
               "DocumentMoniker": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\B\\FormCProcessing\\FormCProcessing\\Views\\Home\\Registration.cshtml",
               "RelativeDocumentMoniker": "FormCProcessing\\Views\\Home\\Registration.cshtml",
               "ToolTip": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\B\\FormCProcessing\\FormCProcessing\\Views\\Home\\Registration.cshtml",
               "RelativeToolTip": "FormCProcessing\\Views\\Home\\Registration.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAZAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAkAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-02-17T10:25:40.9Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "LoginModel.cs",
               "DocumentMoniker": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\B\\FormCProcessing\\FormCProcessing\\Models\\LoginModel.cs",
               "RelativeDocumentMoniker": "FormCProcessing\\Models\\LoginModel.cs",
@@ -72,12 +75,11 @@
               "RelativeToolTip": "FormCProcessing\\Models\\LoginModel.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAAkAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-17T09:42:44.258Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-17T09:42:44.258Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\B\\FormCProcessing\\FormCProcessing\\Program.cs",
               "RelativeDocumentMoniker": "FormCProcessing\\Program.cs",
@@ -85,12 +87,11 @@
               "RelativeToolTip": "FormCProcessing\\Program.cs",
               "ViewState": "AgIAABUAAAAAAAAAAAAAABgAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-17T09:23:44.05Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-17T09:23:44.05Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Login.cshtml",
               "DocumentMoniker": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\B\\FormCProcessing\\FormCProcessing\\Views\\Home\\Login.cshtml",
               "RelativeDocumentMoniker": "FormCProcessing\\Views\\Home\\Login.cshtml",
@@ -98,8 +99,7 @@
               "RelativeToolTip": "FormCProcessing\\Views\\Home\\Login.cshtml",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-02-17T09:17:52.337Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-17T09:17:52.337Z"
             },
             {
               "$type": "Document",
@@ -109,9 +109,22 @@
               "RelativeDocumentMoniker": "FormCProcessing\\Controllers\\HomeController.cs",
               "ToolTip": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\B\\FormCProcessing\\FormCProcessing\\Controllers\\HomeController.cs",
               "RelativeToolTip": "FormCProcessing\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAqwB8AAAA6AAAAAAAAAA==",
+              "ViewState": "AgIAABcAAAAAAAAAAAAIwBoAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-17T09:16:17.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\B\\FormCProcessing\\FormCProcessing\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "FormCProcessing\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\B\\FormCProcessing\\FormCProcessing\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "FormCProcessing\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-02-17T10:51:59.987Z",
               "EditorCaption": ""
             }
           ]

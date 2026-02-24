@@ -24,7 +24,7 @@ namespace FormCProcessing.Controllers
         }
         [HttpGet]
         public IActionResult Registration() {
-            return View();
+            return View(new RegistrationModel());
         }
         [HttpPost]
         public IActionResult Registration(RegistrationModel obj) {
@@ -32,7 +32,7 @@ namespace FormCProcessing.Controllers
                 TempData["Msg"] = "Regisrtation Successful";
                 return RedirectToAction("Login");
             }
-            return View();
+            return View(obj);
         }
         //[HttpPost]
         //public IActionResult Login(string Uname, string Pass) {
