@@ -223,7 +223,6 @@ C:\Users\Tanvir Ahmed\Desktop\.NET\B\IntroEF\IntroEF\obj\Debug\net10.0\refint\In
 C:\Users\Tanvir Ahmed\Desktop\.NET\B\IntroEF\IntroEF\obj\Debug\net10.0\IntroEF.pdb
 C:\Users\Tanvir Ahmed\Desktop\.NET\B\IntroEF\IntroEF\obj\Debug\net10.0\IntroEF.genruntimeconfig.cache
 C:\Users\Tanvir Ahmed\Desktop\.NET\B\IntroEF\IntroEF\obj\Debug\net10.0\ref\IntroEF.dll
-C:\Users\Tanvir Ahmed\Desktop\.NET\B\IntroEF\IntroEF\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
 C:\Users\Tanvir Ahmed\Desktop\.NET\B\IntroEF\IntroEF\bin\Debug\net10.0\Microsoft.AspNetCore.Razor.Language.dll
 C:\Users\Tanvir Ahmed\Desktop\.NET\B\IntroEF\IntroEF\bin\Debug\net10.0\Microsoft.Build.dll
 C:\Users\Tanvir Ahmed\Desktop\.NET\B\IntroEF\IntroEF\bin\Debug\net10.0\Microsoft.CodeAnalysis.CSharp.Features.dll
@@ -338,3 +337,4 @@ C:\Users\Tanvir Ahmed\Desktop\.NET\B\IntroEF\IntroEF\bin\Debug\net10.0\ru\Micros
 C:\Users\Tanvir Ahmed\Desktop\.NET\B\IntroEF\IntroEF\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
 C:\Users\Tanvir Ahmed\Desktop\.NET\B\IntroEF\IntroEF\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
 C:\Users\Tanvir Ahmed\Desktop\.NET\B\IntroEF\IntroEF\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Tanvir Ahmed\Desktop\.NET\B\IntroEF\IntroEF\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt

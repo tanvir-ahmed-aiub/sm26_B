@@ -29,9 +29,15 @@ public partial class StudentMsBSp26Context : DbContext
     {
         modelBuilder.Entity<Course>(entity =>
         {
+            entity.Property(e => e.Did).HasColumnName("DId");
             entity.Property(e => e.Name)
                 .HasMaxLength(50)
                 .IsUnicode(false);
+
+            entity.HasOne(d => d.DidNavigation).WithMany(p => p.Courses)
+                .HasForeignKey(d => d.Did)
+                .OnDelete(DeleteBehavior.ClientSetNull)
+                .HasConstraintName("FK_Courses_Departments");
         });
 
         modelBuilder.Entity<Department>(entity =>

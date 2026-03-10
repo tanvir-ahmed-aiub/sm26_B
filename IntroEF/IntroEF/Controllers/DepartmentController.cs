@@ -34,5 +34,27 @@ namespace IntroEF.Controllers
             return View(data);
             //db.Departments.Find(id); //Search primary key
         }
+        [HttpGet]
+        public IActionResult Edit(int id) {
+            var exObj = db.Departments.Find(id);
+            return View(exObj);
+        }
+        [HttpPost]
+        public IActionResult Edit(Department formObj) { 
+            var dbObj = db.Departments.Find(formObj.Id);
+            dbObj.Name = formObj.Name;
+            //
+            //
+            //
+            db.SaveChanges();
+            TempData["Msg"] = "Updated Successfully";
+
+            //db.Departments.Remove(dbObj);
+            //db.SaveChanges();
+
+            return RedirectToAction("Index");
+
+
+        }
     }
 }
