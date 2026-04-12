@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\B\\IntroEF\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D5A9031D-4C7B-2B49-221B-AC16164DE313}|IntroEF\\IntroEF.csproj|c:\\users\\tanvir ahmed\\desktop\\.net\\b\\introef\\introef\\views\\department\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D5A9031D-4C7B-2B49-221B-AC16164DE313}|IntroEF\\IntroEF.csproj|solutionrelative:introef\\views\\department\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{D5A9031D-4C7B-2B49-221B-AC16164DE313}|IntroEF\\IntroEF.csproj|c:\\users\\tanvir ahmed\\desktop\\.net\\b\\introef\\introef\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D5A9031D-4C7B-2B49-221B-AC16164DE313}|IntroEF\\IntroEF.csproj|solutionrelative:introef\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5A9031D-4C7B-2B49-221B-AC16164DE313}|IntroEF\\IntroEF.csproj|c:\\users\\tanvir ahmed\\desktop\\.net\\b\\introef\\introef\\views\\department\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D5A9031D-4C7B-2B49-221B-AC16164DE313}|IntroEF\\IntroEF.csproj|solutionrelative:introef\\views\\department\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D5A9031D-4C7B-2B49-221B-AC16164DE313}|IntroEF\\IntroEF.csproj|c:\\users\\tanvir ahmed\\desktop\\.net\\b\\introef\\introef\\views\\department\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -54,7 +54,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
@@ -71,12 +71,12 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\B\\IntroEF\\IntroEF\\Views\\Department\\Index.cshtml",
               "RelativeDocumentMoniker": "IntroEF\\Views\\Department\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\B\\IntroEF\\IntroEF\\Views\\Department\\Index.cshtml*",
-              "RelativeToolTip": "IntroEF\\Views\\Department\\Index.cshtml*",
+              "ToolTip": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\B\\IntroEF\\IntroEF\\Views\\Department\\Index.cshtml",
+              "RelativeToolTip": "IntroEF\\Views\\Department\\Index.cshtml",
               "ViewState": "AgIAAAwAAAAAAAAAAAAAABcAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-03-03T08:12:26.31Z",
@@ -96,13 +96,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "DepartmentController.cs",
               "DocumentMoniker": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\B\\IntroEF\\IntroEF\\Controllers\\DepartmentController.cs",
               "RelativeDocumentMoniker": "IntroEF\\Controllers\\DepartmentController.cs",
               "ToolTip": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\B\\IntroEF\\IntroEF\\Controllers\\DepartmentController.cs",
               "RelativeToolTip": "IntroEF\\Controllers\\DepartmentController.cs",
-              "ViewState": "AgIAACcAAAAAAAAAAAAAADAAAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAADMAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-03T07:44:46.349Z",
               "EditorCaption": ""
