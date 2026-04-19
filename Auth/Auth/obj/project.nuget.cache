@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "LBSvM51l2+c=",
+  "dgSpecHash": "DbZcxHqOb4M=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\C\\Auth\\Auth\\Auth.csproj",
+  "projectFilePath": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\B\\Auth\\Auth\\Auth.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Tanvir Ahmed\\.nuget\\packages\\azure.core\\1.47.1\\azure.core.1.47.1.nupkg.sha512",
     "C:\\Users\\Tanvir Ahmed\\.nuget\\packages\\azure.identity\\1.14.2\\azure.identity.1.14.2.nupkg.sha512",

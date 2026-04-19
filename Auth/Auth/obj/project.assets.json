@@ -3056,11 +3056,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\C\\Auth\\Auth\\Auth.csproj",
+      "projectUniqueName": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\B\\Auth\\Auth\\Auth.csproj",
       "projectName": "Auth",
-      "projectPath": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\C\\Auth\\Auth\\Auth.csproj",
+      "projectPath": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\B\\Auth\\Auth\\Auth.csproj",
       "packagesPath": "C:\\Users\\Tanvir Ahmed\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\C\\Auth\\Auth\\obj\\",
+      "outputPath": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\B\\Auth\\Auth\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
