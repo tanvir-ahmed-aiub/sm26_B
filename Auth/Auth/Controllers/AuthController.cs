@@ -1,7 +1,9 @@
-﻿using Auth.DTOs;
+﻿using Auth.AuthFilters;
+using Auth.DTOs;
 using Auth.EF;
 using Auth.EF.Tables;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore.Metadata.Internal;
 using System.Security.Cryptography;
 using System.Text;
 
@@ -15,8 +17,20 @@ namespace Auth.Controllers
 
 
         public AuthController(AuthBSp26Context db) { 
+            
             this.db = db;
         }
+        [Logged]
+        public IActionResult Dashboard() {
+            //if (HttpContext.Session.GetString("Uname") != null) {
+                ViewBag.Uname = HttpContext.Session.GetString("Uname");
+                ViewBag.Type = HttpContext.Session.GetInt32("UType");
+                return View();
+            //}
+            //return Unauthorized();
+            
+        }
+
         [HttpGet]
         public IActionResult Login()
         {
@@ -30,6 +44,20 @@ namespace Auth.Controllers
                     user.Password.Equals(GetMd5(Pass))
                     select user).SingleOrDefault();
             if (u != null) {
+                HttpContext.Session.SetString("Uname",u.Username);
+                HttpContext.Session.SetInt32("UType",u.Type);
+                if (u.Type == 1)
+                {
+                    return RedirectToAction("Dashboard", "Admin");
+                }
+                else if (u.Type == 2)
+                {
+                    return RedirectToAction("Dashboard", "Student");
+
+                }
+                else if (u.Type == 3) {
+                    return RedirectToAction("Dashboard","Teacher");
+                }
                 return RedirectToAction("Dashboard");
             }
             TempData["Class"] = "danger";

@@ -3,36 +3,64 @@
   "WorkspaceRootPath": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\B\\Auth\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{334F3B23-EFE8-6F1A-5E5F-9A2275D56E28}|Auth\\Auth.csproj|c:\\users\\tanvir ahmed\\desktop\\.net\\b\\auth\\auth\\views\\auth\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{334F3B23-EFE8-6F1A-5E5F-9A2275D56E28}|Auth\\Auth.csproj|solutionrelative:auth\\views\\auth\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{334F3B23-EFE8-6F1A-5E5F-9A2275D56E28}|Auth\\Auth.csproj|c:\\users\\tanvir ahmed\\desktop\\.net\\b\\auth\\auth\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{334F3B23-EFE8-6F1A-5E5F-9A2275D56E28}|Auth\\Auth.csproj|solutionrelative:auth\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{334F3B23-EFE8-6F1A-5E5F-9A2275D56E28}|Auth\\Auth.csproj|c:\\users\\tanvir ahmed\\desktop\\.net\\b\\auth\\auth\\authfilters\\adminaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{334F3B23-EFE8-6F1A-5E5F-9A2275D56E28}|Auth\\Auth.csproj|solutionrelative:auth\\authfilters\\adminaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{334F3B23-EFE8-6F1A-5E5F-9A2275D56E28}|Auth\\Auth.csproj|c:\\users\\tanvir ahmed\\desktop\\.net\\b\\auth\\auth\\authfilters\\logged.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{334F3B23-EFE8-6F1A-5E5F-9A2275D56E28}|Auth\\Auth.csproj|solutionrelative:auth\\authfilters\\logged.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{334F3B23-EFE8-6F1A-5E5F-9A2275D56E28}|Auth\\Auth.csproj|c:\\users\\tanvir ahmed\\desktop\\.net\\b\\auth\\auth\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{334F3B23-EFE8-6F1A-5E5F-9A2275D56E28}|Auth\\Auth.csproj|solutionrelative:auth\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{334F3B23-EFE8-6F1A-5E5F-9A2275D56E28}|Auth\\Auth.csproj|c:\\users\\tanvir ahmed\\desktop\\.net\\b\\auth\\auth\\views\\admin\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{334F3B23-EFE8-6F1A-5E5F-9A2275D56E28}|Auth\\Auth.csproj|solutionrelative:auth\\views\\admin\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{334F3B23-EFE8-6F1A-5E5F-9A2275D56E28}|Auth\\Auth.csproj|c:\\users\\tanvir ahmed\\desktop\\.net\\b\\auth\\auth\\ef\\tables\\usertype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{334F3B23-EFE8-6F1A-5E5F-9A2275D56E28}|Auth\\Auth.csproj|solutionrelative:auth\\ef\\tables\\usertype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{334F3B23-EFE8-6F1A-5E5F-9A2275D56E28}|Auth\\Auth.csproj|c:\\users\\tanvir ahmed\\desktop\\.net\\b\\auth\\auth\\dtos\\regdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{334F3B23-EFE8-6F1A-5E5F-9A2275D56E28}|Auth\\Auth.csproj|solutionrelative:auth\\dtos\\regdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{334F3B23-EFE8-6F1A-5E5F-9A2275D56E28}|Auth\\Auth.csproj|c:\\users\\tanvir ahmed\\desktop\\.net\\b\\auth\\auth\\views\\auth\\registration.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{334F3B23-EFE8-6F1A-5E5F-9A2275D56E28}|Auth\\Auth.csproj|solutionrelative:auth\\views\\auth\\registration.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{334F3B23-EFE8-6F1A-5E5F-9A2275D56E28}|Auth\\Auth.csproj|c:\\users\\tanvir ahmed\\desktop\\.net\\b\\auth\\auth\\validations\\uniqueuname.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{334F3B23-EFE8-6F1A-5E5F-9A2275D56E28}|Auth\\Auth.csproj|solutionrelative:auth\\validations\\uniqueuname.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{334F3B23-EFE8-6F1A-5E5F-9A2275D56E28}|Auth\\Auth.csproj|c:\\users\\tanvir ahmed\\desktop\\.net\\b\\auth\\auth\\views\\admin\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{334F3B23-EFE8-6F1A-5E5F-9A2275D56E28}|Auth\\Auth.csproj|solutionrelative:auth\\views\\admin\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{334F3B23-EFE8-6F1A-5E5F-9A2275D56E28}|Auth\\Auth.csproj|c:\\users\\tanvir ahmed\\desktop\\.net\\b\\auth\\auth\\validations\\passwordmatch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{334F3B23-EFE8-6F1A-5E5F-9A2275D56E28}|Auth\\Auth.csproj|solutionrelative:auth\\validations\\passwordmatch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{334F3B23-EFE8-6F1A-5E5F-9A2275D56E28}|Auth\\Auth.csproj|c:\\users\\tanvir ahmed\\desktop\\.net\\b\\auth\\auth\\ef\\authbsp26context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{334F3B23-EFE8-6F1A-5E5F-9A2275D56E28}|Auth\\Auth.csproj|solutionrelative:auth\\ef\\authbsp26context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{334F3B23-EFE8-6F1A-5E5F-9A2275D56E28}|Auth\\Auth.csproj|c:\\users\\tanvir ahmed\\desktop\\.net\\b\\auth\\auth\\views\\auth\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{334F3B23-EFE8-6F1A-5E5F-9A2275D56E28}|Auth\\Auth.csproj|solutionrelative:auth\\views\\auth\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{334F3B23-EFE8-6F1A-5E5F-9A2275D56E28}|Auth\\Auth.csproj|c:\\users\\tanvir ahmed\\desktop\\.net\\b\\auth\\auth\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{334F3B23-EFE8-6F1A-5E5F-9A2275D56E28}|Auth\\Auth.csproj|solutionrelative:auth\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{334F3B23-EFE8-6F1A-5E5F-9A2275D56E28}|Auth\\Auth.csproj|c:\\users\\tanvir ahmed\\desktop\\.net\\b\\auth\\auth\\dtos\\regdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{334F3B23-EFE8-6F1A-5E5F-9A2275D56E28}|Auth\\Auth.csproj|solutionrelative:auth\\dtos\\regdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{334F3B23-EFE8-6F1A-5E5F-9A2275D56E28}|Auth\\Auth.csproj|c:\\users\\tanvir ahmed\\desktop\\.net\\b\\auth\\auth\\validations\\passwordmatch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{334F3B23-EFE8-6F1A-5E5F-9A2275D56E28}|Auth\\Auth.csproj|solutionrelative:auth\\validations\\passwordmatch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{334F3B23-EFE8-6F1A-5E5F-9A2275D56E28}|Auth\\Auth.csproj|c:\\users\\tanvir ahmed\\desktop\\.net\\b\\auth\\auth\\views\\auth\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{334F3B23-EFE8-6F1A-5E5F-9A2275D56E28}|Auth\\Auth.csproj|solutionrelative:auth\\views\\auth\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{334F3B23-EFE8-6F1A-5E5F-9A2275D56E28}|Auth\\Auth.csproj|c:\\users\\tanvir ahmed\\desktop\\.net\\b\\auth\\auth\\validations\\uniqueuname.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{334F3B23-EFE8-6F1A-5E5F-9A2275D56E28}|Auth\\Auth.csproj|solutionrelative:auth\\validations\\uniqueuname.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{334F3B23-EFE8-6F1A-5E5F-9A2275D56E28}|Auth\\Auth.csproj|c:\\users\\tanvir ahmed\\desktop\\.net\\b\\auth\\auth\\ef\\authbsp26context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{334F3B23-EFE8-6F1A-5E5F-9A2275D56E28}|Auth\\Auth.csproj|solutionrelative:auth\\ef\\authbsp26context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{334F3B23-EFE8-6F1A-5E5F-9A2275D56E28}|Auth\\Auth.csproj|c:\\users\\tanvir ahmed\\desktop\\.net\\b\\auth\\auth\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -46,11 +74,102 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AdminAccess.cs",
+              "DocumentMoniker": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\B\\Auth\\Auth\\AuthFilters\\AdminAccess.cs",
+              "RelativeDocumentMoniker": "Auth\\AuthFilters\\AdminAccess.cs",
+              "ToolTip": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\B\\Auth\\Auth\\AuthFilters\\AdminAccess.cs",
+              "RelativeToolTip": "Auth\\AuthFilters\\AdminAccess.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAmwAsAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T10:45:52.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserType.cs",
+              "DocumentMoniker": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\B\\Auth\\Auth\\EF\\Tables\\UserType.cs",
+              "RelativeDocumentMoniker": "Auth\\EF\\Tables\\UserType.cs",
+              "ToolTip": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\B\\Auth\\Auth\\EF\\Tables\\UserType.cs",
+              "RelativeToolTip": "Auth\\EF\\Tables\\UserType.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T10:37:32.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\B\\Auth\\Auth\\Views\\Admin\\Create.cshtml",
+              "RelativeDocumentMoniker": "Auth\\Views\\Admin\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\B\\Auth\\Auth\\Views\\Admin\\Create.cshtml",
+              "RelativeToolTip": "Auth\\Views\\Admin\\Create.cshtml",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAuwBMAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-21T10:34:40.731Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Dashboard.cshtml",
+              "DocumentMoniker": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\B\\Auth\\Auth\\Views\\Admin\\Dashboard.cshtml",
+              "RelativeDocumentMoniker": "Auth\\Views\\Admin\\Dashboard.cshtml",
+              "ToolTip": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\B\\Auth\\Auth\\Views\\Admin\\Dashboard.cshtml",
+              "RelativeToolTip": "Auth\\Views\\Admin\\Dashboard.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-21T10:32:56.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\B\\Auth\\Auth\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "Auth\\Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\B\\Auth\\Auth\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "Auth\\Controllers\\AdminController.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAUwAkAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T10:32:33.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Logged.cs",
+              "DocumentMoniker": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\B\\Auth\\Auth\\AuthFilters\\Logged.cs",
+              "RelativeDocumentMoniker": "Auth\\AuthFilters\\Logged.cs",
+              "ToolTip": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\B\\Auth\\Auth\\AuthFilters\\Logged.cs",
+              "RelativeToolTip": "Auth\\AuthFilters\\Logged.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAAAwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T10:03:50.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Dashboard.cshtml",
+              "DocumentMoniker": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\B\\Auth\\Auth\\Views\\Auth\\Dashboard.cshtml",
+              "RelativeDocumentMoniker": "Auth\\Views\\Auth\\Dashboard.cshtml",
+              "ToolTip": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\B\\Auth\\Auth\\Views\\Auth\\Dashboard.cshtml",
+              "RelativeToolTip": "Auth\\Views\\Auth\\Dashboard.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-21T09:49:05.772Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "Login.cshtml",
               "DocumentMoniker": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\B\\Auth\\Auth\\Views\\Auth\\Login.cshtml",
               "RelativeDocumentMoniker": "Auth\\Views\\Auth\\Login.cshtml",
@@ -58,12 +177,11 @@
               "RelativeToolTip": "Auth\\Views\\Auth\\Login.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-04-19T10:48:23.582Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-19T10:48:23.582Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 13,
               "Title": "UniqueUName.cs",
               "DocumentMoniker": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\B\\Auth\\Auth\\Validations\\UniqueUName.cs",
               "RelativeDocumentMoniker": "Auth\\Validations\\UniqueUName.cs",
@@ -75,32 +193,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 11,
               "Title": "PasswordMatch.cs",
               "DocumentMoniker": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\B\\Auth\\Auth\\Validations\\PasswordMatch.cs",
               "RelativeDocumentMoniker": "Auth\\Validations\\PasswordMatch.cs",
               "ToolTip": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\B\\Auth\\Auth\\Validations\\PasswordMatch.cs",
               "RelativeToolTip": "Auth\\Validations\\PasswordMatch.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAoAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-19T09:39:59.831Z"
+              "WhenOpened": "2026-04-19T09:39:59.831Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "AuthController.cs",
               "DocumentMoniker": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\B\\Auth\\Auth\\Controllers\\AuthController.cs",
               "RelativeDocumentMoniker": "Auth\\Controllers\\AuthController.cs",
               "ToolTip": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\B\\Auth\\Auth\\Controllers\\AuthController.cs",
               "RelativeToolTip": "Auth\\Controllers\\AuthController.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAQwCIAAAAnAAAAAAAAAA==",
+              "ViewState": "AgIAACgAAAAAAAAAAAAuwD0AAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-19T09:31:04.4Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 14,
               "Title": "AuthBSp26Context.cs",
               "DocumentMoniker": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\B\\Auth\\Auth\\EF\\AuthBSp26Context.cs",
               "RelativeDocumentMoniker": "Auth\\EF\\AuthBSp26Context.cs",
@@ -112,44 +231,46 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 10,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\B\\Auth\\Auth\\Program.cs",
               "RelativeDocumentMoniker": "Auth\\Program.cs",
               "ToolTip": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\B\\Auth\\Auth\\Program.cs",
               "RelativeToolTip": "Auth\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAuAAAAAAAAAA==",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACcAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-19T09:29:49.732Z"
+              "WhenOpened": "2026-04-19T09:29:49.732Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 6,
               "Title": "RegDTO.cs",
               "DocumentMoniker": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\B\\Auth\\Auth\\DTOs\\RegDTO.cs",
               "RelativeDocumentMoniker": "Auth\\DTOs\\RegDTO.cs",
               "ToolTip": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\B\\Auth\\Auth\\DTOs\\RegDTO.cs",
               "RelativeToolTip": "Auth\\DTOs\\RegDTO.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAwwBQAAAAlAAAAAAAAAA==",
+              "ViewState": "AgIAABEAAAAAAAAAAAAIwBkAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-19T09:35:02.301Z"
+              "WhenOpened": "2026-04-19T09:35:02.301Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "Registration.cshtml",
               "DocumentMoniker": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\B\\Auth\\Auth\\Views\\Auth\\Registration.cshtml",
               "RelativeDocumentMoniker": "Auth\\Views\\Auth\\Registration.cshtml",
               "ToolTip": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\B\\Auth\\Auth\\Views\\Auth\\Registration.cshtml",
               "RelativeToolTip": "Auth\\Views\\Auth\\Registration.cshtml",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAHAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABIAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-04-19T09:31:47.727Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 15,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\B\\Auth\\Auth\\appsettings.json",
               "RelativeDocumentMoniker": "Auth\\appsettings.json",

@@ -23,6 +23,7 @@ namespace Auth.DTOs
         [StringLength(8)]
         [PasswordMatch]
         public string ConfPassword { get; set; }
+        public int Type { get; set; }
 
     }
 }
