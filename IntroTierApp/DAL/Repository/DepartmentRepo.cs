@@ -1,4 +1,6 @@
-﻿using System;
+﻿using DAL.EF;
+using DAL.EF.Tables;
+using System;
 using System.Collections.Generic;
 using System.Text;
 
@@ -6,28 +8,34 @@ namespace DAL.Repository
 {
     public class DepartmentRepo
     {
-        public Object Get() { 
-            //
-            //
-            //
-            //
-            return new object();
-        }
-        public Object Get(int id)
+        StudentMsBSp26Context db;
+        public DepartmentRepo(StudentMsBSp26Context db)
         {
-            //
-            //
-            //
-            //
-            return new object();
+            this.db = db;
         }
-        public Object Create()
+
+        public List<Department> Get() { 
+            return db.Departments.ToList();
+        }
+        public Department Get(int id)
         {
-            //
-            //
-            //
-            //
-            return new object();
+            return db.Departments.Find(id);
+        }
+        public bool Create(Department d)
+        {
+            db.Departments.Add(d);
+            return db.SaveChanges() > 0;
+        }
+        public bool Update(Department d) {
+            var exobj = Get(d.Id);
+            db.Entry(exobj).CurrentValues.SetValues(d);
+            return db.SaveChanges() > 0;
+        }
+
+        public bool Delete(int id) {
+            var exobj = Get(id);
+            db.Departments.Remove(exobj);
+            return db.SaveChanges() > 0;
         }
     }
 }

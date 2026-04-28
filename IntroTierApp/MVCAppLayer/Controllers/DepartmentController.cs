@@ -1,4 +1,5 @@
-﻿using BLL.Services;
+﻿using BLL.DTOs;
+using BLL.Services;
 using DAL.Repository;
 using Microsoft.AspNetCore.Mvc;
 
@@ -16,16 +17,30 @@ namespace MVCAppLayer.Controllers
         }
         [HttpGet]
         public IActionResult Get() {
-            //
-            //
-            
+
             var data = service.Get();   
             return View(data);
         }
+        [HttpGet]
         public IActionResult Create() { 
-            
-            var res = service.Create();
-            return View();
+            return View(new DepartmentDTO());
         }
+        [HttpPost]
+        public IActionResult Create(DepartmentDTO d) {
+            if (ModelState.IsValid) { 
+                var rs = service.Create(d);
+                if (rs == true)
+                {
+                    return RedirectToAction("Get");
+                }
+                else {
+                    TempData["Msg"] = "Something Error Occured";
+                    
+                }
+            }
+            return View(d);
+        }
+
+        
     }
 }

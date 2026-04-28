@@ -1,4 +1,7 @@
-﻿using DAL.Repository;
+﻿using AutoMapper;
+using BLL.DTOs;
+using DAL.EF.Tables;
+using DAL.Repository;
 using System;
 using System.Collections.Generic;
 using System.Text;
@@ -8,33 +11,31 @@ namespace BLL.Services
     public class DepartmentService
     {
         DepartmentRepo repo;
+        Mapper mapper;
         public DepartmentService(DepartmentRepo repo)
         {
             this.repo = repo;
+            mapper = MapperConfig.GetMapper();
         }
 
-        public Object Get() {
-            //
-            //
+        public List<DepartmentDTO> Get() {
+            var data = repo.Get();
+            
+            var res = mapper.Map<List<DepartmentDTO>>(data);
+            return res;
+        }
+        public DepartmentDTO Get(int id)
+        {          
+            var data = repo.Get(id);
+            
+            return mapper.Map<DepartmentDTO>(data);
+        }
 
-            repo.Get();
-            //logics
-            return new object();
+        public bool Create(DepartmentDTO d) {
+           
+            var data = mapper.Map<Department>(d);
+            return repo.Create(data);
         }
-        public Object Get(int id)
-        {
-            
-            repo.Get(id);
-            return new object();
-        }
-        public Object Create()
-        {
-            repo.Create();
-            return new object();
-        }
-        public bool Delete() { 
-            
-            return false;
-        }
+        
     }
 }
