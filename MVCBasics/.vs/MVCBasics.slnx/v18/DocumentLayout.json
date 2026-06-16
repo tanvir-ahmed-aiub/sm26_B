@@ -1,0 +1,199 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\B\\MVCBasics\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D4BA0F46-ED58-FC42-B41C-D5D377B664FF}|MVCBasics\\MVCBasics.csproj|c:\\users\\tanvir ahmed\\desktop\\.net\\b\\mvcbasics\\mvcbasics\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4BA0F46-ED58-FC42-B41C-D5D377B664FF}|MVCBasics\\MVCBasics.csproj|solutionrelative:mvcbasics\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4BA0F46-ED58-FC42-B41C-D5D377B664FF}|MVCBasics\\MVCBasics.csproj|c:\\users\\tanvir ahmed\\desktop\\.net\\b\\mvcbasics\\mvcbasics\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4BA0F46-ED58-FC42-B41C-D5D377B664FF}|MVCBasics\\MVCBasics.csproj|solutionrelative:mvcbasics\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4BA0F46-ED58-FC42-B41C-D5D377B664FF}|MVCBasics\\MVCBasics.csproj|c:\\users\\tanvir ahmed\\desktop\\.net\\b\\mvcbasics\\mvcbasics\\views\\course\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D4BA0F46-ED58-FC42-B41C-D5D377B664FF}|MVCBasics\\MVCBasics.csproj|solutionrelative:mvcbasics\\views\\course\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4BA0F46-ED58-FC42-B41C-D5D377B664FF}|MVCBasics\\MVCBasics.csproj|c:\\users\\tanvir ahmed\\desktop\\.net\\b\\mvcbasics\\mvcbasics\\views\\student\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D4BA0F46-ED58-FC42-B41C-D5D377B664FF}|MVCBasics\\MVCBasics.csproj|solutionrelative:mvcbasics\\views\\student\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4BA0F46-ED58-FC42-B41C-D5D377B664FF}|MVCBasics\\MVCBasics.csproj|c:\\users\\tanvir ahmed\\desktop\\.net\\b\\mvcbasics\\mvcbasics\\views\\course\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D4BA0F46-ED58-FC42-B41C-D5D377B664FF}|MVCBasics\\MVCBasics.csproj|solutionrelative:mvcbasics\\views\\course\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4BA0F46-ED58-FC42-B41C-D5D377B664FF}|MVCBasics\\MVCBasics.csproj|c:\\users\\tanvir ahmed\\desktop\\.net\\b\\mvcbasics\\mvcbasics\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4BA0F46-ED58-FC42-B41C-D5D377B664FF}|MVCBasics\\MVCBasics.csproj|solutionrelative:mvcbasics\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4BA0F46-ED58-FC42-B41C-D5D377B664FF}|MVCBasics\\MVCBasics.csproj|c:\\users\\tanvir ahmed\\desktop\\.net\\b\\mvcbasics\\mvcbasics\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4BA0F46-ED58-FC42-B41C-D5D377B664FF}|MVCBasics\\MVCBasics.csproj|solutionrelative:mvcbasics\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4BA0F46-ED58-FC42-B41C-D5D377B664FF}|MVCBasics\\MVCBasics.csproj|c:\\users\\tanvir ahmed\\desktop\\.net\\b\\mvcbasics\\mvcbasics\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4BA0F46-ED58-FC42-B41C-D5D377B664FF}|MVCBasics\\MVCBasics.csproj|solutionrelative:mvcbasics\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4BA0F46-ED58-FC42-B41C-D5D377B664FF}|MVCBasics\\MVCBasics.csproj|c:\\users\\tanvir ahmed\\desktop\\.net\\b\\mvcbasics\\mvcbasics\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D4BA0F46-ED58-FC42-B41C-D5D377B664FF}|MVCBasics\\MVCBasics.csproj|solutionrelative:mvcbasics\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4BA0F46-ED58-FC42-B41C-D5D377B664FF}|MVCBasics\\MVCBasics.csproj|c:\\users\\tanvir ahmed\\desktop\\.net\\b\\mvcbasics\\mvcbasics\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4BA0F46-ED58-FC42-B41C-D5D377B664FF}|MVCBasics\\MVCBasics.csproj|solutionrelative:mvcbasics\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4BA0F46-ED58-FC42-B41C-D5D377B664FF}|MVCBasics\\MVCBasics.csproj|c:\\users\\tanvir ahmed\\desktop\\.net\\b\\mvcbasics\\mvcbasics\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D4BA0F46-ED58-FC42-B41C-D5D377B664FF}|MVCBasics\\MVCBasics.csproj|solutionrelative:mvcbasics\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\B\\MVCBasics\\MVCBasics\\Views\\Course\\Details.cshtml",
+              "RelativeDocumentMoniker": "MVCBasics\\Views\\Course\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\B\\MVCBasics\\MVCBasics\\Views\\Course\\Details.cshtml",
+              "RelativeToolTip": "MVCBasics\\Views\\Course\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-16T10:18:42.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\B\\MVCBasics\\MVCBasics\\Views\\Student\\Details.cshtml",
+              "RelativeDocumentMoniker": "MVCBasics\\Views\\Student\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\B\\MVCBasics\\MVCBasics\\Views\\Student\\Details.cshtml",
+              "RelativeToolTip": "MVCBasics\\Views\\Student\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-16T10:02:53.876Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\B\\MVCBasics\\MVCBasics\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "MVCBasics\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\B\\MVCBasics\\MVCBasics\\Models\\Student.cs",
+              "RelativeToolTip": "MVCBasics\\Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-16T09:45:00.572Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\B\\MVCBasics\\MVCBasics\\Views\\Student\\Index.cshtml",
+              "RelativeDocumentMoniker": "MVCBasics\\Views\\Student\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\B\\MVCBasics\\MVCBasics\\Views\\Student\\Index.cshtml",
+              "RelativeToolTip": "MVCBasics\\Views\\Student\\Index.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABMAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-16T09:39:51.921Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\B\\MVCBasics\\MVCBasics\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "MVCBasics\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\B\\MVCBasics\\MVCBasics\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "MVCBasics\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-16T09:10:29.189Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\B\\MVCBasics\\MVCBasics\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "MVCBasics\\Controllers\\StudentController.cs",
+              "ToolTip": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\B\\MVCBasics\\MVCBasics\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "MVCBasics\\Controllers\\StudentController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwBgAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-16T09:35:22.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CourseController.cs",
+              "DocumentMoniker": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\B\\MVCBasics\\MVCBasics\\Controllers\\CourseController.cs",
+              "RelativeDocumentMoniker": "MVCBasics\\Controllers\\CourseController.cs",
+              "ToolTip": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\B\\MVCBasics\\MVCBasics\\Controllers\\CourseController.cs",
+              "RelativeToolTip": "MVCBasics\\Controllers\\CourseController.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwAcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-16T10:12:42.654Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Course.cs",
+              "DocumentMoniker": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\B\\MVCBasics\\MVCBasics\\Models\\Course.cs",
+              "RelativeDocumentMoniker": "MVCBasics\\Models\\Course.cs",
+              "ToolTip": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\B\\MVCBasics\\MVCBasics\\Models\\Course.cs",
+              "RelativeToolTip": "MVCBasics\\Models\\Course.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-16T10:12:57.979Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\B\\MVCBasics\\MVCBasics\\Views\\Course\\Index.cshtml",
+              "RelativeDocumentMoniker": "MVCBasics\\Views\\Course\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\B\\MVCBasics\\MVCBasics\\Views\\Course\\Index.cshtml",
+              "RelativeToolTip": "MVCBasics\\Views\\Course\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAkwAsAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-16T10:14:05.772Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\B\\MVCBasics\\MVCBasics\\Program.cs",
+              "RelativeDocumentMoniker": "MVCBasics\\Program.cs",
+              "ToolTip": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\B\\MVCBasics\\MVCBasics\\Program.cs",
+              "RelativeToolTip": "MVCBasics\\Program.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAAACAAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-16T09:10:52.031Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\B\\MVCBasics\\MVCBasics\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "MVCBasics\\Views\\Product\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\B\\MVCBasics\\MVCBasics\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "MVCBasics\\Views\\Product\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-16T09:12:53.03Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

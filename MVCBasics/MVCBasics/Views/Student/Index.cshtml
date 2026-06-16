@@ -1,0 +1,24 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+<h3>Student Info</h3>
+
+<table class="table table-bordered">
+    <tr>
+        <th>Id</th>
+        <th>Name</th>
+        <th></th>
+    </tr>
+
+    @for (int i = 0; i < ViewBag.Students.Length; i++)
+    {
+        <tr>
+            <td>@ViewBag.Students[i].Id</td>
+            <td>@ViewBag.Students[i].Name</td>
+            <td><a href="/students/details/@ViewBag.Students[i].Id/@ViewBag.Students[i].Name" class="btn btn-primary">Details</a></td>
+        </tr>
+    }
+
+</table>
