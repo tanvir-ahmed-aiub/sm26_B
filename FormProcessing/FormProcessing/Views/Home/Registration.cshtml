@@ -1,0 +1,65 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+
+@{
+    bool CheckGender(string gn)
+    {
+        if (Model.Gender == gn) return true;
+
+        return false;
+    }
+    bool CheckProfession(string prf)
+    {
+        if (Model.Profession == prf) return true;
+        return false;
+    }
+    bool CheckHobbies(string hb)
+    {
+        if (Model.Hobbies != null)
+        {
+            foreach (var h in Model.Hobbies)
+            {
+                if (h == hb) return true;    
+            }
+        }
+        return false;
+
+    }
+}
+
+@Html.ValidationSummary()
+
+
+<form action="" method="post">
+    <input type="text" name="Name" value="@Model.Name" placeholder="Name" class="form-control" />
+    <span class="text-danger">@Html.ValidationMessage("Name")</span>
+    <input type="text" name="Uname" value="@Model.Uname" placeholder="Username" class="form-control" />
+    <span class="text-danger">@Html.ValidationMessage("Uname")</span>
+    <input type="text" name="Email" value="@Model.Email" placeholder="Email" class="form-control" />
+    <span class="text-danger">@Html.ValidationMessage("Email")</span>
+    
+    Gender: <input type="radio" checked="@CheckGender("Male")" name="Gender" value="Male" /> Male
+    <input type="radio" name="Gender" checked="@CheckGender("Female")" value="Female" /> Female
+    <br />
+    Profession:
+    <select name="Profession">
+        <option selected disabled>---Select---</option>
+        <option selected="@CheckProfession("Student")">Student</option>
+        <option selected="@CheckProfession("Business")">Business</option>
+        <option selected="@CheckProfession("Both")">Both</option>
+    </select>
+    <br />
+
+    <input type="text" name="Roll" value="@Model.Roll" placeholder="Roll" class="form-control" />
+
+    Hobbies: 
+    <input type="checkbox" checked="@CheckHobbies("Sports")" name="Hobbies[]" value="Sports" />Sports
+    <input type="checkbox" checked="@CheckHobbies("Games")" name="Hobbies[]" value="Games" />Games
+    <input type="checkbox" checked="@CheckHobbies("Travelling")" name="Hobbies[]" value="Travelling" />Travelling
+
+    <br />
+    <input type="submit"  value="Register" class="btn btn-primary"/>
+</form>

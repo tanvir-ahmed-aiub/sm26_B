@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\B\\FormProcessing\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7A5B2513-DBC8-4292-8731-577DD2802643}|FormProcessing\\FormProcessing.csproj|c:\\users\\tanvir ahmed\\desktop\\.net\\b\\formprocessing\\formprocessing\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{7A5B2513-DBC8-4292-8731-577DD2802643}|FormProcessing\\FormProcessing.csproj|solutionrelative:formprocessing\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{E15E62B2-3CA7-BC01-C665-FCAFDC264FF1}|FormProcessing\\FormProcessing.csproj|c:\\users\\tanvir ahmed\\desktop\\.net\\b\\formprocessing\\formprocessing\\views\\home\\registration.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E15E62B2-3CA7-BC01-C665-FCAFDC264FF1}|FormProcessing\\FormProcessing.csproj|solutionrelative:formprocessing\\views\\home\\registration.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7A5B2513-DBC8-4292-8731-577DD2802643}|FormProcessing\\FormProcessing.csproj|c:\\users\\tanvir ahmed\\desktop\\.net\\b\\formprocessing\\formprocessing\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7A5B2513-DBC8-4292-8731-577DD2802643}|FormProcessing\\FormProcessing.csproj|solutionrelative:formprocessing\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E15E62B2-3CA7-BC01-C665-FCAFDC264FF1}|FormProcessing\\FormProcessing.csproj|c:\\users\\tanvir ahmed\\desktop\\.net\\b\\formprocessing\\formprocessing\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E15E62B2-3CA7-BC01-C665-FCAFDC264FF1}|FormProcessing\\FormProcessing.csproj|solutionrelative:formprocessing\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E15E62B2-3CA7-BC01-C665-FCAFDC264FF1}|FormProcessing\\FormProcessing.csproj|c:\\users\\tanvir ahmed\\desktop\\.net\\b\\formprocessing\\formprocessing\\models\\registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E15E62B2-3CA7-BC01-C665-FCAFDC264FF1}|FormProcessing\\FormProcessing.csproj|solutionrelative:formprocessing\\models\\registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E15E62B2-3CA7-BC01-C665-FCAFDC264FF1}|FormProcessing\\FormProcessing.csproj|c:\\users\\tanvir ahmed\\desktop\\.net\\b\\formprocessing\\formprocessing\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E15E62B2-3CA7-BC01-C665-FCAFDC264FF1}|FormProcessing\\FormProcessing.csproj|solutionrelative:formprocessing\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,17 +26,43 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Registration.cs",
+              "DocumentMoniker": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\B\\FormProcessing\\FormProcessing\\Models\\Registration.cs",
+              "RelativeDocumentMoniker": "FormProcessing\\Models\\Registration.cs",
+              "ToolTip": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\B\\FormProcessing\\FormProcessing\\Models\\Registration.cs",
+              "RelativeToolTip": "FormProcessing\\Models\\Registration.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-23T09:17:59.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Registration.cshtml",
+              "DocumentMoniker": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\B\\FormProcessing\\FormProcessing\\Views\\Home\\Registration.cshtml",
+              "RelativeDocumentMoniker": "FormProcessing\\Views\\Home\\Registration.cshtml",
+              "ToolTip": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\B\\FormProcessing\\FormProcessing\\Views\\Home\\Registration.cshtml",
+              "RelativeToolTip": "FormProcessing\\Views\\Home\\Registration.cshtml",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAADwAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-23T09:08:26.315Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Login.cshtml",
               "DocumentMoniker": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\B\\FormProcessing\\FormProcessing\\Views\\Home\\Login.cshtml",
               "RelativeDocumentMoniker": "FormProcessing\\Views\\Home\\Login.cshtml",
               "ToolTip": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\B\\FormProcessing\\FormProcessing\\Views\\Home\\Login.cshtml",
               "RelativeToolTip": "FormProcessing\\Views\\Home\\Login.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-06-16T10:32:43.094Z",
               "EditorCaption": ""
@@ -41,7 +75,7 @@
               "RelativeDocumentMoniker": "FormProcessing\\Controllers\\HomeController.cs",
               "ToolTip": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\B\\FormProcessing\\FormProcessing\\Controllers\\HomeController.cs",
               "RelativeToolTip": "FormProcessing\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAYwBIAAAAsAAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAAAAwwBgAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-06-16T10:32:16.792Z",
               "EditorCaption": ""
