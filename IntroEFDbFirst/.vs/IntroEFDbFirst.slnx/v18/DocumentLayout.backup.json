@@ -1,12 +1,256 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\B\\IntroEFDbFirst\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{17B1091C-85CA-2746-EF5F-75CF583E1267}|IntroEFDbFirst\\IntroEFDbFirst.csproj|c:\\users\\tanvir ahmed\\desktop\\.net\\b\\introefdbfirst\\introefdbfirst\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{17B1091C-85CA-2746-EF5F-75CF583E1267}|IntroEFDbFirst\\IntroEFDbFirst.csproj|solutionrelative:introefdbfirst\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17B1091C-85CA-2746-EF5F-75CF583E1267}|IntroEFDbFirst\\IntroEFDbFirst.csproj|c:\\users\\tanvir ahmed\\desktop\\.net\\b\\introefdbfirst\\introefdbfirst\\ef\\tables\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17B1091C-85CA-2746-EF5F-75CF583E1267}|IntroEFDbFirst\\IntroEFDbFirst.csproj|solutionrelative:introefdbfirst\\ef\\tables\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17B1091C-85CA-2746-EF5F-75CF583E1267}|IntroEFDbFirst\\IntroEFDbFirst.csproj|c:\\users\\tanvir ahmed\\desktop\\.net\\b\\introefdbfirst\\introefdbfirst\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17B1091C-85CA-2746-EF5F-75CF583E1267}|IntroEFDbFirst\\IntroEFDbFirst.csproj|solutionrelative:introefdbfirst\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17B1091C-85CA-2746-EF5F-75CF583E1267}|IntroEFDbFirst\\IntroEFDbFirst.csproj|c:\\users\\tanvir ahmed\\desktop\\.net\\b\\introefdbfirst\\introefdbfirst\\ef\\tables\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17B1091C-85CA-2746-EF5F-75CF583E1267}|IntroEFDbFirst\\IntroEFDbFirst.csproj|solutionrelative:introefdbfirst\\ef\\tables\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17B1091C-85CA-2746-EF5F-75CF583E1267}|IntroEFDbFirst\\IntroEFDbFirst.csproj|c:\\users\\tanvir ahmed\\desktop\\.net\\b\\introefdbfirst\\introefdbfirst\\views\\student\\scholarship.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{17B1091C-85CA-2746-EF5F-75CF583E1267}|IntroEFDbFirst\\IntroEFDbFirst.csproj|solutionrelative:introefdbfirst\\views\\student\\scholarship.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17B1091C-85CA-2746-EF5F-75CF583E1267}|IntroEFDbFirst\\IntroEFDbFirst.csproj|c:\\users\\tanvir ahmed\\desktop\\.net\\b\\introefdbfirst\\introefdbfirst\\views\\student\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{17B1091C-85CA-2746-EF5F-75CF583E1267}|IntroEFDbFirst\\IntroEFDbFirst.csproj|solutionrelative:introefdbfirst\\views\\student\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17B1091C-85CA-2746-EF5F-75CF583E1267}|IntroEFDbFirst\\IntroEFDbFirst.csproj|c:\\users\\tanvir ahmed\\desktop\\.net\\b\\introefdbfirst\\introefdbfirst\\views\\student\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{17B1091C-85CA-2746-EF5F-75CF583E1267}|IntroEFDbFirst\\IntroEFDbFirst.csproj|solutionrelative:introefdbfirst\\views\\student\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17B1091C-85CA-2746-EF5F-75CF583E1267}|IntroEFDbFirst\\IntroEFDbFirst.csproj|c:\\users\\tanvir ahmed\\desktop\\.net\\b\\introefdbfirst\\introefdbfirst\\views\\student\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{17B1091C-85CA-2746-EF5F-75CF583E1267}|IntroEFDbFirst\\IntroEFDbFirst.csproj|solutionrelative:introefdbfirst\\views\\student\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17B1091C-85CA-2746-EF5F-75CF583E1267}|IntroEFDbFirst\\IntroEFDbFirst.csproj|c:\\users\\tanvir ahmed\\desktop\\.net\\b\\introefdbfirst\\introefdbfirst\\views\\student\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{17B1091C-85CA-2746-EF5F-75CF583E1267}|IntroEFDbFirst\\IntroEFDbFirst.csproj|solutionrelative:introefdbfirst\\views\\student\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17B1091C-85CA-2746-EF5F-75CF583E1267}|IntroEFDbFirst\\IntroEFDbFirst.csproj|c:\\users\\tanvir ahmed\\desktop\\.net\\b\\introefdbfirst\\introefdbfirst\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17B1091C-85CA-2746-EF5F-75CF583E1267}|IntroEFDbFirst\\IntroEFDbFirst.csproj|solutionrelative:introefdbfirst\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17B1091C-85CA-2746-EF5F-75CF583E1267}|IntroEFDbFirst\\IntroEFDbFirst.csproj|c:\\users\\tanvir ahmed\\desktop\\.net\\b\\introefdbfirst\\introefdbfirst\\ef\\sm26bcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17B1091C-85CA-2746-EF5F-75CF583E1267}|IntroEFDbFirst\\IntroEFDbFirst.csproj|solutionrelative:introefdbfirst\\ef\\sm26bcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17B1091C-85CA-2746-EF5F-75CF583E1267}|IntroEFDbFirst\\IntroEFDbFirst.csproj|c:\\users\\tanvir ahmed\\desktop\\.net\\b\\introefdbfirst\\introefdbfirst\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17B1091C-85CA-2746-EF5F-75CF583E1267}|IntroEFDbFirst\\IntroEFDbFirst.csproj|solutionrelative:introefdbfirst\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17B1091C-85CA-2746-EF5F-75CF583E1267}|IntroEFDbFirst\\IntroEFDbFirst.csproj|c:\\users\\tanvir ahmed\\desktop\\.net\\b\\introefdbfirst\\introefdbfirst\\views\\department\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{17B1091C-85CA-2746-EF5F-75CF583E1267}|IntroEFDbFirst\\IntroEFDbFirst.csproj|solutionrelative:introefdbfirst\\views\\department\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17B1091C-85CA-2746-EF5F-75CF583E1267}|IntroEFDbFirst\\IntroEFDbFirst.csproj|c:\\users\\tanvir ahmed\\desktop\\.net\\b\\introefdbfirst\\introefdbfirst\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{17B1091C-85CA-2746-EF5F-75CF583E1267}|IntroEFDbFirst\\IntroEFDbFirst.csproj|solutionrelative:introefdbfirst\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\B\\IntroEFDbFirst\\IntroEFDbFirst\\Views\\Student\\Index.cshtml",
+              "RelativeDocumentMoniker": "IntroEFDbFirst\\Views\\Student\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\B\\IntroEFDbFirst\\IntroEFDbFirst\\Views\\Student\\Index.cshtml",
+              "RelativeToolTip": "IntroEFDbFirst\\Views\\Student\\Index.cshtml",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAABgAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-14T09:40:13.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\B\\IntroEFDbFirst\\IntroEFDbFirst\\Views\\Student\\Create.cshtml",
+              "RelativeDocumentMoniker": "IntroEFDbFirst\\Views\\Student\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\B\\IntroEFDbFirst\\IntroEFDbFirst\\Views\\Student\\Create.cshtml",
+              "RelativeToolTip": "IntroEFDbFirst\\Views\\Student\\Create.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-14T09:34:45.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\B\\IntroEFDbFirst\\IntroEFDbFirst\\Program.cs",
+              "RelativeDocumentMoniker": "IntroEFDbFirst\\Program.cs",
+              "ToolTip": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\B\\IntroEFDbFirst\\IntroEFDbFirst\\Program.cs",
+              "RelativeToolTip": "IntroEFDbFirst\\Program.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAAAB4AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-14T09:11:56.302Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\B\\IntroEFDbFirst\\IntroEFDbFirst\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "IntroEFDbFirst\\Controllers\\StudentController.cs",
+              "ToolTip": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\B\\IntroEFDbFirst\\IntroEFDbFirst\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "IntroEFDbFirst\\Controllers\\StudentController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAADwvxEAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-14T09:11:40.162Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\B\\IntroEFDbFirst\\IntroEFDbFirst\\EF\\Tables\\Student.cs",
+              "RelativeDocumentMoniker": "IntroEFDbFirst\\EF\\Tables\\Student.cs",
+              "ToolTip": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\B\\IntroEFDbFirst\\IntroEFDbFirst\\EF\\Tables\\Student.cs",
+              "RelativeToolTip": "IntroEFDbFirst\\EF\\Tables\\Student.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAA3wBEAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-07T10:18:21.979Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Department.cs",
+              "DocumentMoniker": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\B\\IntroEFDbFirst\\IntroEFDbFirst\\EF\\Tables\\Department.cs",
+              "RelativeDocumentMoniker": "IntroEFDbFirst\\EF\\Tables\\Department.cs",
+              "ToolTip": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\B\\IntroEFDbFirst\\IntroEFDbFirst\\EF\\Tables\\Department.cs",
+              "RelativeToolTip": "IntroEFDbFirst\\EF\\Tables\\Department.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAzwA0AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-07T10:18:14.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Scholarship.cshtml",
+              "DocumentMoniker": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\B\\IntroEFDbFirst\\IntroEFDbFirst\\Views\\Student\\Scholarship.cshtml",
+              "RelativeDocumentMoniker": "IntroEFDbFirst\\Views\\Student\\Scholarship.cshtml",
+              "ToolTip": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\B\\IntroEFDbFirst\\IntroEFDbFirst\\Views\\Student\\Scholarship.cshtml",
+              "RelativeToolTip": "IntroEFDbFirst\\Views\\Student\\Scholarship.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-14T10:39:40.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\B\\IntroEFDbFirst\\IntroEFDbFirst\\Views\\Student\\Details.cshtml",
+              "RelativeDocumentMoniker": "IntroEFDbFirst\\Views\\Student\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\B\\IntroEFDbFirst\\IntroEFDbFirst\\Views\\Student\\Details.cshtml",
+              "RelativeToolTip": "IntroEFDbFirst\\Views\\Student\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-14T09:49:36.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\B\\IntroEFDbFirst\\IntroEFDbFirst\\Views\\Student\\Delete.cshtml",
+              "RelativeDocumentMoniker": "IntroEFDbFirst\\Views\\Student\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\B\\IntroEFDbFirst\\IntroEFDbFirst\\Views\\Student\\Delete.cshtml",
+              "RelativeToolTip": "IntroEFDbFirst\\Views\\Student\\Delete.cshtml",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAAoAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-14T10:16:32.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\B\\IntroEFDbFirst\\IntroEFDbFirst\\Views\\Student\\Edit.cshtml",
+              "RelativeDocumentMoniker": "IntroEFDbFirst\\Views\\Student\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\B\\IntroEFDbFirst\\IntroEFDbFirst\\Views\\Student\\Edit.cshtml",
+              "RelativeToolTip": "IntroEFDbFirst\\Views\\Student\\Edit.cshtml",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAYAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-14T09:57:07.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DepartmentController.cs",
+              "DocumentMoniker": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\B\\IntroEFDbFirst\\IntroEFDbFirst\\Controllers\\DepartmentController.cs",
+              "RelativeDocumentMoniker": "IntroEFDbFirst\\Controllers\\DepartmentController.cs",
+              "ToolTip": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\B\\IntroEFDbFirst\\IntroEFDbFirst\\Controllers\\DepartmentController.cs",
+              "RelativeToolTip": "IntroEFDbFirst\\Controllers\\DepartmentController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAuwAwAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-07T10:25:53.093Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Sm26BContext.cs",
+              "DocumentMoniker": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\B\\IntroEFDbFirst\\IntroEFDbFirst\\EF\\Sm26BContext.cs",
+              "RelativeDocumentMoniker": "IntroEFDbFirst\\EF\\Sm26BContext.cs",
+              "ToolTip": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\B\\IntroEFDbFirst\\IntroEFDbFirst\\EF\\Sm26BContext.cs",
+              "RelativeToolTip": "IntroEFDbFirst\\EF\\Sm26BContext.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAIwBIAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-07T10:18:10.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\B\\IntroEFDbFirst\\IntroEFDbFirst\\Views\\Department\\Create.cshtml",
+              "RelativeDocumentMoniker": "IntroEFDbFirst\\Views\\Department\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\B\\IntroEFDbFirst\\IntroEFDbFirst\\Views\\Department\\Create.cshtml",
+              "RelativeToolTip": "IntroEFDbFirst\\Views\\Department\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-07T10:26:52.093Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\B\\IntroEFDbFirst\\IntroEFDbFirst\\appsettings.json",
+              "RelativeDocumentMoniker": "IntroEFDbFirst\\appsettings.json",
+              "ToolTip": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\B\\IntroEFDbFirst\\IntroEFDbFirst\\appsettings.json",
+              "RelativeToolTip": "IntroEFDbFirst\\appsettings.json",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAuwAkAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-07-07T09:59:41.689Z"
+            }
+          ]
+        }
+      ]
     }
   ]
 }

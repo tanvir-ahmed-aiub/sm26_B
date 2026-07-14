@@ -6,9 +6,15 @@ namespace IntroEFDbFirst.Controllers
 {
     public class DepartmentController : Controller
     {
-        
 
-        Sm26BContext db = new Sm26BContext();
+
+        Sm26BContext db;
+        //dependency resolve
+        public DepartmentController(Sm26BContext db)
+        {
+            this.db = db;
+        }
+
         public IActionResult Index()
         {
             var data = db.Departments.ToList();//select query

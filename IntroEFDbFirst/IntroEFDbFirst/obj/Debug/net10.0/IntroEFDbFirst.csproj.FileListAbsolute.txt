@@ -223,3 +223,4 @@ C:\Users\Tanvir Ahmed\Desktop\.NET\B\IntroEFDbFirst\IntroEFDbFirst\obj\Debug\net
 C:\Users\Tanvir Ahmed\Desktop\.NET\B\IntroEFDbFirst\IntroEFDbFirst\obj\Debug\net10.0\IntroEFDbFirst.pdb
 C:\Users\Tanvir Ahmed\Desktop\.NET\B\IntroEFDbFirst\IntroEFDbFirst\obj\Debug\net10.0\IntroEFDbFirst.genruntimeconfig.cache
 C:\Users\Tanvir Ahmed\Desktop\.NET\B\IntroEFDbFirst\IntroEFDbFirst\obj\Debug\net10.0\ref\IntroEFDbFirst.dll
+C:\Users\Tanvir Ahmed\Desktop\.NET\B\IntroEFDbFirst\IntroEFDbFirst\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt

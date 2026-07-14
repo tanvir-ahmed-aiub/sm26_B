@@ -1,8 +1,14 @@
+using IntroEFDbFirst.EF;
+using Microsoft.EntityFrameworkCore;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
-
+//depedency injection
+builder.Services.AddDbContext<Sm26BContext>(opt => {
+    opt.UseSqlServer(builder.Configuration.GetConnectionString("DbConn"));
+});
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
