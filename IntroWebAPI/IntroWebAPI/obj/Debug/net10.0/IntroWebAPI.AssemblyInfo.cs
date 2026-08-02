@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("IntroWebAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2e9df88cdb3aa2cc683eb0c20168b9324f8ed0c4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1abbf0f06719d76c0c6d00dbf2cdf11ee7dde387")]
 [assembly: System.Reflection.AssemblyProductAttribute("IntroWebAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("IntroWebAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

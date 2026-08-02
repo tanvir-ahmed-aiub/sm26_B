@@ -7,8 +7,24 @@
       "RelativeMoniker": "D:0:0:{32452C7D-5B41-927E-442E-9EDF4A6BA2F5}|IntroWebAPI\\IntroWebAPI.csproj|solutionrelative:introwebapi\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{32452C7D-5B41-927E-442E-9EDF4A6BA2F5}|IntroWebAPI\\IntroWebAPI.csproj|c:\\users\\tanvir ahmed\\desktop\\.net\\b\\introwebapi\\introwebapi\\models\\studentmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32452C7D-5B41-927E-442E-9EDF4A6BA2F5}|IntroWebAPI\\IntroWebAPI.csproj|solutionrelative:introwebapi\\models\\studentmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32452C7D-5B41-927E-442E-9EDF4A6BA2F5}|IntroWebAPI\\IntroWebAPI.csproj|c:\\users\\tanvir ahmed\\desktop\\.net\\b\\introwebapi\\introwebapi\\ef\\tables\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32452C7D-5B41-927E-442E-9EDF4A6BA2F5}|IntroWebAPI\\IntroWebAPI.csproj|solutionrelative:introwebapi\\ef\\tables\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32452C7D-5B41-927E-442E-9EDF4A6BA2F5}|IntroWebAPI\\IntroWebAPI.csproj|c:\\users\\tanvir ahmed\\desktop\\.net\\b\\introwebapi\\introwebapi\\introwebapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{32452C7D-5B41-927E-442E-9EDF4A6BA2F5}|IntroWebAPI\\IntroWebAPI.csproj|solutionrelative:introwebapi\\introwebapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{32452C7D-5B41-927E-442E-9EDF4A6BA2F5}|IntroWebAPI\\IntroWebAPI.csproj|c:\\users\\tanvir ahmed\\desktop\\.net\\b\\introwebapi\\introwebapi\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{32452C7D-5B41-927E-442E-9EDF4A6BA2F5}|IntroWebAPI\\IntroWebAPI.csproj|solutionrelative:introwebapi\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32452C7D-5B41-927E-442E-9EDF4A6BA2F5}|IntroWebAPI\\IntroWebAPI.csproj|c:\\users\\tanvir ahmed\\desktop\\.net\\b\\introwebapi\\introwebapi\\ef\\sm26bcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32452C7D-5B41-927E-442E-9EDF4A6BA2F5}|IntroWebAPI\\IntroWebAPI.csproj|solutionrelative:introwebapi\\ef\\sm26bcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{32452C7D-5B41-927E-442E-9EDF4A6BA2F5}|IntroWebAPI\\IntroWebAPI.csproj|c:\\users\\tanvir ahmed\\desktop\\.net\\b\\introwebapi\\introwebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -30,8 +46,60 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentModel.cs",
+              "DocumentMoniker": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\B\\IntroWebAPI\\IntroWebAPI\\Models\\StudentModel.cs",
+              "RelativeDocumentMoniker": "IntroWebAPI\\Models\\StudentModel.cs",
+              "ToolTip": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\B\\IntroWebAPI\\IntroWebAPI\\Models\\StudentModel.cs",
+              "RelativeToolTip": "IntroWebAPI\\Models\\StudentModel.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwA0AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-02T09:40:17.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IntroWebAPI",
+              "DocumentMoniker": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\B\\IntroWebAPI\\IntroWebAPI\\IntroWebAPI.csproj",
+              "RelativeDocumentMoniker": "IntroWebAPI\\IntroWebAPI.csproj",
+              "ToolTip": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\B\\IntroWebAPI\\IntroWebAPI\\IntroWebAPI.csproj",
+              "RelativeToolTip": "IntroWebAPI\\IntroWebAPI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-08-02T09:35:12.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\B\\IntroWebAPI\\IntroWebAPI\\EF\\Tables\\Student.cs",
+              "RelativeDocumentMoniker": "IntroWebAPI\\EF\\Tables\\Student.cs",
+              "ToolTip": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\B\\IntroWebAPI\\IntroWebAPI\\EF\\Tables\\Student.cs",
+              "RelativeToolTip": "IntroWebAPI\\EF\\Tables\\Student.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAuwA8AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-02T09:34:18.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Sm26BContext.cs",
+              "DocumentMoniker": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\B\\IntroWebAPI\\IntroWebAPI\\EF\\Sm26BContext.cs",
+              "RelativeDocumentMoniker": "IntroWebAPI\\EF\\Sm26BContext.cs",
+              "ToolTip": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\B\\IntroWebAPI\\IntroWebAPI\\EF\\Sm26BContext.cs",
+              "RelativeToolTip": "IntroWebAPI\\EF\\Sm26BContext.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBYAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-02T09:33:21.383Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -40,14 +108,14 @@
               "RelativeDocumentMoniker": "IntroWebAPI\\Controllers\\StudentController.cs",
               "ToolTip": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\B\\IntroWebAPI\\IntroWebAPI\\Controllers\\StudentController.cs",
               "RelativeToolTip": "IntroWebAPI\\Controllers\\StudentController.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAQwBEAAAAcAAAAAAAAAA==",
+              "ViewState": "AgIAACoAAAAAAAAAAAAkwCwAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-08-02T09:22:12.246Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "Department.cs",
               "DocumentMoniker": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\B\\IntroWebAPI\\IntroWebAPI\\EF\\Tables\\Department.cs",
               "RelativeDocumentMoniker": "IntroWebAPI\\EF\\Tables\\Department.cs",
@@ -59,7 +127,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\B\\IntroWebAPI\\IntroWebAPI\\Program.cs",
               "RelativeDocumentMoniker": "IntroWebAPI\\Program.cs",
@@ -72,7 +140,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "DepartmentController.cs",
               "DocumentMoniker": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\B\\IntroWebAPI\\IntroWebAPI\\Controllers\\DepartmentController.cs",
               "RelativeDocumentMoniker": "IntroWebAPI\\Controllers\\DepartmentController.cs",
@@ -85,7 +153,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\B\\IntroWebAPI\\IntroWebAPI\\appsettings.json",
               "RelativeDocumentMoniker": "IntroWebAPI\\appsettings.json",

@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "aT72Q3k4glY=",
+  "dgSpecHash": "EVUWqrnUgus=",
   "success": true,
   "projectFilePath": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\B\\IntroWebAPI\\IntroWebAPI\\IntroWebAPI.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Tanvir Ahmed\\.nuget\\packages\\automapper\\14.0.0\\automapper.14.0.0.nupkg.sha512",
     "C:\\Users\\Tanvir Ahmed\\.nuget\\packages\\azure.core\\1.47.1\\azure.core.1.47.1.nupkg.sha512",
     "C:\\Users\\Tanvir Ahmed\\.nuget\\packages\\azure.identity\\1.14.2\\azure.identity.1.14.2.nupkg.sha512",
     "C:\\Users\\Tanvir Ahmed\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
@@ -55,13 +56,28 @@
   ],
   "logs": [
     {
-      "code": "NU1900",
+      "code": "NU1903",
       "level": "Warning",
-      "message": "Error occurred while getting package vulnerability data: Unable to load the service index for source https://api.nuget.org/v3/index.json.",
+      "message": "Package 'AutoMapper' 14.0.0 has a known high severity vulnerability, https://github.com/advisories/GHSA-rvv3-g6hj-g44x",
       "projectPath": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\B\\IntroWebAPI\\IntroWebAPI\\IntroWebAPI.csproj",
       "warningLevel": 1,
       "filePath": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\B\\IntroWebAPI\\IntroWebAPI\\IntroWebAPI.csproj",
-      "targetGraphs": []
+      "libraryId": "AutoMapper",
+      "targetGraphs": [
+        "net10.0"
+      ]
+    },
+    {
+      "code": "NU1903",
+      "level": "Warning",
+      "message": "Package 'Microsoft.OpenApi' 2.0.0 has a known high severity vulnerability, https://github.com/advisories/GHSA-v5pm-xwqc-g5wc",
+      "projectPath": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\B\\IntroWebAPI\\IntroWebAPI\\IntroWebAPI.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\B\\IntroWebAPI\\IntroWebAPI\\IntroWebAPI.csproj",
+      "libraryId": "Microsoft.OpenApi",
+      "targetGraphs": [
+        "net10.0"
+      ]
     }
   ]
 }
