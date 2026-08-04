@@ -70,8 +70,7 @@
               "RelativeToolTip": "IntroWebAPI\\EF\\Tables\\Course.cs",
               "ViewState": "AgIAAAcAAAAAAAAAAAA1wAsAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-02T10:32:14.193Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-02T10:32:14.193Z"
             },
             {
               "$type": "Document",
@@ -83,8 +82,7 @@
               "RelativeToolTip": "IntroWebAPI\\Models\\CourseModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-02T10:32:10.328Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-02T10:32:10.328Z"
             },
             {
               "$type": "Document",
@@ -94,7 +92,7 @@
               "RelativeDocumentMoniker": "IntroWebAPI\\Controllers\\CourseController.cs",
               "ToolTip": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\B\\IntroWebAPI\\IntroWebAPI\\Controllers\\CourseController.cs",
               "RelativeToolTip": "IntroWebAPI\\Controllers\\CourseController.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAAiwB4AAAAYAAAAAAAAAA==",
+              "ViewState": "AgIAABQAAAAAAAAAAAAiwBsAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-08-02T10:31:27.439Z",
               "EditorCaption": ""
@@ -109,8 +107,7 @@
               "RelativeToolTip": "IntroWebAPI\\Models\\StudentModel.cs",
               "ViewState": "AgIAAAUAAAAAAAAAAAAQwA0AAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-02T09:40:17.863Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-02T09:40:17.863Z"
             },
             {
               "$type": "Document",
@@ -122,8 +119,7 @@
               "RelativeToolTip": "IntroWebAPI\\IntroWebAPI.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-08-02T09:35:12.326Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-02T09:35:12.326Z"
             },
             {
               "$type": "Document",
@@ -135,8 +131,7 @@
               "RelativeToolTip": "IntroWebAPI\\EF\\Tables\\Student.cs",
               "ViewState": "AgIAAAwAAAAAAAAAAAAuwA8AAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-02T09:34:18.49Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-02T09:34:18.49Z"
             },
             {
               "$type": "Document",
@@ -148,8 +143,7 @@
               "RelativeToolTip": "IntroWebAPI\\EF\\Sm26BContext.cs",
               "ViewState": "AgIAAA0AAAAAAAAAAAA1wBYAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-02T09:33:21.383Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-02T09:33:21.383Z"
             },
             {
               "$type": "Document",
@@ -161,8 +155,7 @@
               "RelativeToolTip": "IntroWebAPI\\Controllers\\StudentController.cs",
               "ViewState": "AgIAAAUAAAAAAAAAAAAIwDMAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-02T09:22:12.246Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-02T09:22:12.246Z"
             },
             {
               "$type": "Document",
@@ -174,8 +167,7 @@
               "RelativeToolTip": "IntroWebAPI\\EF\\Tables\\Department.cs",
               "ViewState": "AgIAAAUAAAAAAAAAAAAxwAkAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-28T10:38:50.219Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-28T10:38:50.219Z"
             },
             {
               "$type": "Document",
@@ -187,8 +179,7 @@
               "RelativeToolTip": "IntroWebAPI\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAIBJwAwAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-28T10:18:41.487Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-28T10:18:41.487Z"
             },
             {
               "$type": "Document",
@@ -200,8 +191,7 @@
               "RelativeToolTip": "IntroWebAPI\\Controllers\\DepartmentController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-28T10:18:25.504Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-28T10:18:25.504Z"
             },
             {
               "$type": "Document",
@@ -213,8 +203,7 @@
               "RelativeToolTip": "IntroWebAPI\\appsettings.json",
               "ViewState": "AgIAAAIAAAAAAAAAAABRwAoAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-07-28T10:15:36.444Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-28T10:15:36.444Z"
             }
           ]
         }

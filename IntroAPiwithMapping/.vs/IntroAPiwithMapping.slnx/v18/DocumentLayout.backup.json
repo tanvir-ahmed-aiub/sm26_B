@@ -1,0 +1,275 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\B\\IntroAPiwithMapping\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{34AC821C-4BE4-4D84-98C2-E48B63767069}|IntroAPiwithMapping\\IntroAPiwithMapping.csproj|c:\\users\\tanvir ahmed\\desktop\\.net\\b\\introapiwithmapping\\introapiwithmapping\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34AC821C-4BE4-4D84-98C2-E48B63767069}|IntroAPiwithMapping\\IntroAPiwithMapping.csproj|solutionrelative:introapiwithmapping\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34AC821C-4BE4-4D84-98C2-E48B63767069}|IntroAPiwithMapping\\IntroAPiwithMapping.csproj|c:\\users\\tanvir ahmed\\desktop\\.net\\b\\introapiwithmapping\\introapiwithmapping\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34AC821C-4BE4-4D84-98C2-E48B63767069}|IntroAPiwithMapping\\IntroAPiwithMapping.csproj|solutionrelative:introapiwithmapping\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34AC821C-4BE4-4D84-98C2-E48B63767069}|IntroAPiwithMapping\\IntroAPiwithMapping.csproj|c:\\users\\tanvir ahmed\\desktop\\.net\\b\\introapiwithmapping\\introapiwithmapping\\models\\departmentinfomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34AC821C-4BE4-4D84-98C2-E48B63767069}|IntroAPiwithMapping\\IntroAPiwithMapping.csproj|solutionrelative:introapiwithmapping\\models\\departmentinfomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34AC821C-4BE4-4D84-98C2-E48B63767069}|IntroAPiwithMapping\\IntroAPiwithMapping.csproj|c:\\users\\tanvir ahmed\\desktop\\.net\\b\\introapiwithmapping\\introapiwithmapping\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34AC821C-4BE4-4D84-98C2-E48B63767069}|IntroAPiwithMapping\\IntroAPiwithMapping.csproj|solutionrelative:introapiwithmapping\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34AC821C-4BE4-4D84-98C2-E48B63767069}|IntroAPiwithMapping\\IntroAPiwithMapping.csproj|c:\\users\\tanvir ahmed\\desktop\\.net\\b\\introapiwithmapping\\introapiwithmapping\\ef\\tables\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34AC821C-4BE4-4D84-98C2-E48B63767069}|IntroAPiwithMapping\\IntroAPiwithMapping.csproj|solutionrelative:introapiwithmapping\\ef\\tables\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34AC821C-4BE4-4D84-98C2-E48B63767069}|IntroAPiwithMapping\\IntroAPiwithMapping.csproj|c:\\users\\tanvir ahmed\\desktop\\.net\\b\\introapiwithmapping\\introapiwithmapping\\models\\studentinfomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34AC821C-4BE4-4D84-98C2-E48B63767069}|IntroAPiwithMapping\\IntroAPiwithMapping.csproj|solutionrelative:introapiwithmapping\\models\\studentinfomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34AC821C-4BE4-4D84-98C2-E48B63767069}|IntroAPiwithMapping\\IntroAPiwithMapping.csproj|c:\\users\\tanvir ahmed\\desktop\\.net\\b\\introapiwithmapping\\introapiwithmapping\\models\\studentmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34AC821C-4BE4-4D84-98C2-E48B63767069}|IntroAPiwithMapping\\IntroAPiwithMapping.csproj|solutionrelative:introapiwithmapping\\models\\studentmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34AC821C-4BE4-4D84-98C2-E48B63767069}|IntroAPiwithMapping\\IntroAPiwithMapping.csproj|c:\\users\\tanvir ahmed\\desktop\\.net\\b\\introapiwithmapping\\introapiwithmapping\\ef\\tables\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34AC821C-4BE4-4D84-98C2-E48B63767069}|IntroAPiwithMapping\\IntroAPiwithMapping.csproj|solutionrelative:introapiwithmapping\\ef\\tables\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34AC821C-4BE4-4D84-98C2-E48B63767069}|IntroAPiwithMapping\\IntroAPiwithMapping.csproj|c:\\users\\tanvir ahmed\\desktop\\.net\\b\\introapiwithmapping\\introapiwithmapping\\models\\departmentcoursemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34AC821C-4BE4-4D84-98C2-E48B63767069}|IntroAPiwithMapping\\IntroAPiwithMapping.csproj|solutionrelative:introapiwithmapping\\models\\departmentcoursemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34AC821C-4BE4-4D84-98C2-E48B63767069}|IntroAPiwithMapping\\IntroAPiwithMapping.csproj|c:\\users\\tanvir ahmed\\desktop\\.net\\b\\introapiwithmapping\\introapiwithmapping\\models\\departmentstudentmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34AC821C-4BE4-4D84-98C2-E48B63767069}|IntroAPiwithMapping\\IntroAPiwithMapping.csproj|solutionrelative:introapiwithmapping\\models\\departmentstudentmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34AC821C-4BE4-4D84-98C2-E48B63767069}|IntroAPiwithMapping\\IntroAPiwithMapping.csproj|c:\\users\\tanvir ahmed\\desktop\\.net\\b\\introapiwithmapping\\introapiwithmapping\\models\\coursemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34AC821C-4BE4-4D84-98C2-E48B63767069}|IntroAPiwithMapping\\IntroAPiwithMapping.csproj|solutionrelative:introapiwithmapping\\models\\coursemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34AC821C-4BE4-4D84-98C2-E48B63767069}|IntroAPiwithMapping\\IntroAPiwithMapping.csproj|c:\\users\\tanvir ahmed\\desktop\\.net\\b\\introapiwithmapping\\introapiwithmapping\\ef\\tables\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34AC821C-4BE4-4D84-98C2-E48B63767069}|IntroAPiwithMapping\\IntroAPiwithMapping.csproj|solutionrelative:introapiwithmapping\\ef\\tables\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34AC821C-4BE4-4D84-98C2-E48B63767069}|IntroAPiwithMapping\\IntroAPiwithMapping.csproj|c:\\users\\tanvir ahmed\\desktop\\.net\\b\\introapiwithmapping\\introapiwithmapping\\models\\departmentmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34AC821C-4BE4-4D84-98C2-E48B63767069}|IntroAPiwithMapping\\IntroAPiwithMapping.csproj|solutionrelative:introapiwithmapping\\models\\departmentmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34AC821C-4BE4-4D84-98C2-E48B63767069}|IntroAPiwithMapping\\IntroAPiwithMapping.csproj|c:\\users\\tanvir ahmed\\desktop\\.net\\b\\introapiwithmapping\\introapiwithmapping\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34AC821C-4BE4-4D84-98C2-E48B63767069}|IntroAPiwithMapping\\IntroAPiwithMapping.csproj|solutionrelative:introapiwithmapping\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34AC821C-4BE4-4D84-98C2-E48B63767069}|IntroAPiwithMapping\\IntroAPiwithMapping.csproj|c:\\users\\tanvir ahmed\\desktop\\.net\\b\\introapiwithmapping\\introapiwithmapping\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{34AC821C-4BE4-4D84-98C2-E48B63767069}|IntroAPiwithMapping\\IntroAPiwithMapping.csproj|solutionrelative:introapiwithmapping\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DepartmentInfoModel.cs",
+              "DocumentMoniker": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\B\\IntroAPiwithMapping\\IntroAPiwithMapping\\Models\\DepartmentInfoModel.cs",
+              "RelativeDocumentMoniker": "IntroAPiwithMapping\\Models\\DepartmentInfoModel.cs",
+              "ToolTip": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\B\\IntroAPiwithMapping\\IntroAPiwithMapping\\Models\\DepartmentInfoModel.cs",
+              "RelativeToolTip": "IntroAPiwithMapping\\Models\\DepartmentInfoModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-04T10:29:13.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StudentInfoModel.cs",
+              "DocumentMoniker": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\B\\IntroAPiwithMapping\\IntroAPiwithMapping\\Models\\StudentInfoModel.cs",
+              "RelativeDocumentMoniker": "IntroAPiwithMapping\\Models\\StudentInfoModel.cs",
+              "ToolTip": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\B\\IntroAPiwithMapping\\IntroAPiwithMapping\\Models\\StudentInfoModel.cs",
+              "RelativeToolTip": "IntroAPiwithMapping\\Models\\StudentInfoModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-04T10:19:04.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Course.cs",
+              "DocumentMoniker": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\B\\IntroAPiwithMapping\\IntroAPiwithMapping\\EF\\Tables\\Course.cs",
+              "RelativeDocumentMoniker": "IntroAPiwithMapping\\EF\\Tables\\Course.cs",
+              "ToolTip": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\B\\IntroAPiwithMapping\\IntroAPiwithMapping\\EF\\Tables\\Course.cs",
+              "RelativeToolTip": "IntroAPiwithMapping\\EF\\Tables\\Course.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAzwAsAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-04T10:11:44.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CourseModel.cs",
+              "DocumentMoniker": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\B\\IntroAPiwithMapping\\IntroAPiwithMapping\\Models\\CourseModel.cs",
+              "RelativeDocumentMoniker": "IntroAPiwithMapping\\Models\\CourseModel.cs",
+              "ToolTip": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\B\\IntroAPiwithMapping\\IntroAPiwithMapping\\Models\\CourseModel.cs",
+              "RelativeToolTip": "IntroAPiwithMapping\\Models\\CourseModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-04T10:11:41.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DepartmentCourseModel.cs",
+              "DocumentMoniker": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\B\\IntroAPiwithMapping\\IntroAPiwithMapping\\Models\\DepartmentCourseModel.cs",
+              "RelativeDocumentMoniker": "IntroAPiwithMapping\\Models\\DepartmentCourseModel.cs",
+              "ToolTip": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\B\\IntroAPiwithMapping\\IntroAPiwithMapping\\Models\\DepartmentCourseModel.cs",
+              "RelativeToolTip": "IntroAPiwithMapping\\Models\\DepartmentCourseModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-04T10:11:19.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DepartmentStudentModel.cs",
+              "DocumentMoniker": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\B\\IntroAPiwithMapping\\IntroAPiwithMapping\\Models\\DepartmentStudentModel.cs",
+              "RelativeDocumentMoniker": "IntroAPiwithMapping\\Models\\DepartmentStudentModel.cs",
+              "ToolTip": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\B\\IntroAPiwithMapping\\IntroAPiwithMapping\\Models\\DepartmentStudentModel.cs",
+              "RelativeToolTip": "IntroAPiwithMapping\\Models\\DepartmentStudentModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-04T09:46:59.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Department.cs",
+              "DocumentMoniker": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\B\\IntroAPiwithMapping\\IntroAPiwithMapping\\EF\\Tables\\Department.cs",
+              "RelativeDocumentMoniker": "IntroAPiwithMapping\\EF\\Tables\\Department.cs",
+              "ToolTip": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\B\\IntroAPiwithMapping\\IntroAPiwithMapping\\EF\\Tables\\Department.cs",
+              "RelativeToolTip": "IntroAPiwithMapping\\EF\\Tables\\Department.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAA4wA0AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-04T09:24:28.897Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DepartmentModel.cs",
+              "DocumentMoniker": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\B\\IntroAPiwithMapping\\IntroAPiwithMapping\\Models\\DepartmentModel.cs",
+              "RelativeDocumentMoniker": "IntroAPiwithMapping\\Models\\DepartmentModel.cs",
+              "ToolTip": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\B\\IntroAPiwithMapping\\IntroAPiwithMapping\\Models\\DepartmentModel.cs",
+              "RelativeToolTip": "IntroAPiwithMapping\\Models\\DepartmentModel.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-04T09:24:23.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\B\\IntroAPiwithMapping\\IntroAPiwithMapping\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "IntroAPiwithMapping\\MappingProfile.cs",
+              "ToolTip": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\B\\IntroAPiwithMapping\\IntroAPiwithMapping\\MappingProfile.cs",
+              "RelativeToolTip": "IntroAPiwithMapping\\MappingProfile.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwBgAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-04T09:19:38.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\B\\IntroAPiwithMapping\\IntroAPiwithMapping\\EF\\Tables\\Student.cs",
+              "RelativeDocumentMoniker": "IntroAPiwithMapping\\EF\\Tables\\Student.cs",
+              "ToolTip": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\B\\IntroAPiwithMapping\\IntroAPiwithMapping\\EF\\Tables\\Student.cs",
+              "RelativeToolTip": "IntroAPiwithMapping\\EF\\Tables\\Student.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAA3wBEAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-04T09:16:18.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "StudentModel.cs",
+              "DocumentMoniker": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\B\\IntroAPiwithMapping\\IntroAPiwithMapping\\Models\\StudentModel.cs",
+              "RelativeDocumentMoniker": "IntroAPiwithMapping\\Models\\StudentModel.cs",
+              "ToolTip": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\B\\IntroAPiwithMapping\\IntroAPiwithMapping\\Models\\StudentModel.cs",
+              "RelativeToolTip": "IntroAPiwithMapping\\Models\\StudentModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-04T09:16:09.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\B\\IntroAPiwithMapping\\IntroAPiwithMapping\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "IntroAPiwithMapping\\Controllers\\StudentController.cs",
+              "ToolTip": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\B\\IntroAPiwithMapping\\IntroAPiwithMapping\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "IntroAPiwithMapping\\Controllers\\StudentController.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAADwvy8AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-04T09:15:11.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DepartmentController.cs",
+              "DocumentMoniker": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\B\\IntroAPiwithMapping\\IntroAPiwithMapping\\Controllers\\DepartmentController.cs",
+              "RelativeDocumentMoniker": "IntroAPiwithMapping\\Controllers\\DepartmentController.cs",
+              "ToolTip": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\B\\IntroAPiwithMapping\\IntroAPiwithMapping\\Controllers\\DepartmentController.cs",
+              "RelativeToolTip": "IntroAPiwithMapping\\Controllers\\DepartmentController.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAIwEcAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-04T09:15:01.647Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\B\\IntroAPiwithMapping\\IntroAPiwithMapping\\Program.cs",
+              "RelativeDocumentMoniker": "IntroAPiwithMapping\\Program.cs",
+              "ToolTip": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\B\\IntroAPiwithMapping\\IntroAPiwithMapping\\Program.cs",
+              "RelativeToolTip": "IntroAPiwithMapping\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-04T09:12:47.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\B\\IntroAPiwithMapping\\IntroAPiwithMapping\\appsettings.json",
+              "RelativeDocumentMoniker": "IntroAPiwithMapping\\appsettings.json",
+              "ToolTip": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\B\\IntroAPiwithMapping\\IntroAPiwithMapping\\appsettings.json",
+              "RelativeToolTip": "IntroAPiwithMapping\\appsettings.json",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAACBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-08-04T09:12:51.061Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
