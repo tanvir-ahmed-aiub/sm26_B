@@ -1,0 +1,377 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\B\\PMS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B13136E0-FEF3-4DAA-953A-D2F6833360F9}|AppAPI\\AppAPI.csproj|c:\\users\\tanvir ahmed\\desktop\\.net\\b\\pms\\appapi\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B13136E0-FEF3-4DAA-953A-D2F6833360F9}|AppAPI\\AppAPI.csproj|solutionrelative:appapi\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E18FCB56-EBCA-4399-91DA-439575F09513}|BLL\\BLL.csproj|c:\\users\\tanvir ahmed\\desktop\\.net\\b\\pms\\bll\\models\\productmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E18FCB56-EBCA-4399-91DA-439575F09513}|BLL\\BLL.csproj|solutionrelative:bll\\models\\productmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E18FCB56-EBCA-4399-91DA-439575F09513}|BLL\\BLL.csproj|c:\\users\\tanvir ahmed\\desktop\\.net\\b\\pms\\bll\\models\\orderplacemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E18FCB56-EBCA-4399-91DA-439575F09513}|BLL\\BLL.csproj|solutionrelative:bll\\models\\orderplacemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B13136E0-FEF3-4DAA-953A-D2F6833360F9}|AppAPI\\AppAPI.csproj|c:\\users\\tanvir ahmed\\desktop\\.net\\b\\pms\\appapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B13136E0-FEF3-4DAA-953A-D2F6833360F9}|AppAPI\\AppAPI.csproj|solutionrelative:appapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E18FCB56-EBCA-4399-91DA-439575F09513}|BLL\\BLL.csproj|c:\\users\\tanvir ahmed\\desktop\\.net\\b\\pms\\bll\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E18FCB56-EBCA-4399-91DA-439575F09513}|BLL\\BLL.csproj|solutionrelative:bll\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B13136E0-FEF3-4DAA-953A-D2F6833360F9}|AppAPI\\AppAPI.csproj|c:\\users\\tanvir ahmed\\desktop\\.net\\b\\pms\\appapi\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B13136E0-FEF3-4DAA-953A-D2F6833360F9}|AppAPI\\AppAPI.csproj|solutionrelative:appapi\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B13136E0-FEF3-4DAA-953A-D2F6833360F9}|AppAPI\\AppAPI.csproj|c:\\users\\tanvir ahmed\\desktop\\.net\\b\\pms\\appapi\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B13136E0-FEF3-4DAA-953A-D2F6833360F9}|AppAPI\\AppAPI.csproj|solutionrelative:appapi\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B13136E0-FEF3-4DAA-953A-D2F6833360F9}|AppAPI\\AppAPI.csproj|c:\\users\\tanvir ahmed\\desktop\\.net\\b\\pms\\appapi\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B13136E0-FEF3-4DAA-953A-D2F6833360F9}|AppAPI\\AppAPI.csproj|solutionrelative:appapi\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E18FCB56-EBCA-4399-91DA-439575F09513}|BLL\\BLL.csproj|c:\\users\\tanvir ahmed\\desktop\\.net\\b\\pms\\bll\\services\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E18FCB56-EBCA-4399-91DA-439575F09513}|BLL\\BLL.csproj|solutionrelative:bll\\services\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E18FCB56-EBCA-4399-91DA-439575F09513}|BLL\\BLL.csproj|c:\\users\\tanvir ahmed\\desktop\\.net\\b\\pms\\bll\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E18FCB56-EBCA-4399-91DA-439575F09513}|BLL\\BLL.csproj|solutionrelative:bll\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E18FCB56-EBCA-4399-91DA-439575F09513}|BLL\\BLL.csproj|c:\\users\\tanvir ahmed\\desktop\\.net\\b\\pms\\bll\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E18FCB56-EBCA-4399-91DA-439575F09513}|BLL\\BLL.csproj|solutionrelative:bll\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E18FCB56-EBCA-4399-91DA-439575F09513}|BLL\\BLL.csproj|c:\\users\\tanvir ahmed\\desktop\\.net\\b\\pms\\bll\\models\\customermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E18FCB56-EBCA-4399-91DA-439575F09513}|BLL\\BLL.csproj|solutionrelative:bll\\models\\customermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12369B6B-15D6-4D64-BECF-1E45F3347962}|DAL\\DAL.csproj|c:\\users\\tanvir ahmed\\desktop\\.net\\b\\pms\\dal\\ef\\tables\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12369B6B-15D6-4D64-BECF-1E45F3347962}|DAL\\DAL.csproj|solutionrelative:dal\\ef\\tables\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12369B6B-15D6-4D64-BECF-1E45F3347962}|DAL\\DAL.csproj|c:\\users\\tanvir ahmed\\desktop\\.net\\b\\pms\\dal\\ef\\tables\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12369B6B-15D6-4D64-BECF-1E45F3347962}|DAL\\DAL.csproj|solutionrelative:dal\\ef\\tables\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E18FCB56-EBCA-4399-91DA-439575F09513}|BLL\\BLL.csproj|c:\\users\\tanvir ahmed\\desktop\\.net\\b\\pms\\bll\\bll.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E18FCB56-EBCA-4399-91DA-439575F09513}|BLL\\BLL.csproj|solutionrelative:bll\\bll.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12369B6B-15D6-4D64-BECF-1E45F3347962}|DAL\\DAL.csproj|c:\\users\\tanvir ahmed\\desktop\\.net\\b\\pms\\dal\\repos\\orderdetailrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12369B6B-15D6-4D64-BECF-1E45F3347962}|DAL\\DAL.csproj|solutionrelative:dal\\repos\\orderdetailrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12369B6B-15D6-4D64-BECF-1E45F3347962}|DAL\\DAL.csproj|c:\\users\\tanvir ahmed\\desktop\\.net\\b\\pms\\dal\\repos\\orderrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12369B6B-15D6-4D64-BECF-1E45F3347962}|DAL\\DAL.csproj|solutionrelative:dal\\repos\\orderrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12369B6B-15D6-4D64-BECF-1E45F3347962}|DAL\\DAL.csproj|c:\\users\\tanvir ahmed\\desktop\\.net\\b\\pms\\dal\\repos\\customerrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12369B6B-15D6-4D64-BECF-1E45F3347962}|DAL\\DAL.csproj|solutionrelative:dal\\repos\\customerrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12369B6B-15D6-4D64-BECF-1E45F3347962}|DAL\\DAL.csproj|c:\\users\\tanvir ahmed\\desktop\\.net\\b\\pms\\dal\\repos\\productrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12369B6B-15D6-4D64-BECF-1E45F3347962}|DAL\\DAL.csproj|solutionrelative:dal\\repos\\productrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B13136E0-FEF3-4DAA-953A-D2F6833360F9}|AppAPI\\AppAPI.csproj|c:\\users\\tanvir ahmed\\desktop\\.net\\b\\pms\\appapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B13136E0-FEF3-4DAA-953A-D2F6833360F9}|AppAPI\\AppAPI.csproj|solutionrelative:appapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12369B6B-15D6-4D64-BECF-1E45F3347962}|DAL\\DAL.csproj|c:\\users\\tanvir ahmed\\desktop\\.net\\b\\pms\\dal\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12369B6B-15D6-4D64-BECF-1E45F3347962}|DAL\\DAL.csproj|solutionrelative:dal\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OrderService.cs",
+              "DocumentMoniker": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\B\\PMS\\BLL\\Services\\OrderService.cs",
+              "RelativeDocumentMoniker": "BLL\\Services\\OrderService.cs",
+              "ToolTip": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\B\\PMS\\BLL\\Services\\OrderService.cs",
+              "RelativeToolTip": "BLL\\Services\\OrderService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-18T10:21:52.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\B\\PMS\\AppAPI\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "AppAPI\\Controllers\\OrderController.cs",
+              "ToolTip": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\B\\PMS\\AppAPI\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "AppAPI\\Controllers\\OrderController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAswAgAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-18T10:21:37.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OrderPlaceModel.cs",
+              "DocumentMoniker": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\B\\PMS\\BLL\\Models\\OrderPlaceModel.cs",
+              "RelativeDocumentMoniker": "BLL\\Models\\OrderPlaceModel.cs",
+              "ToolTip": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\B\\PMS\\BLL\\Models\\OrderPlaceModel.cs",
+              "RelativeToolTip": "BLL\\Models\\OrderPlaceModel.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAkAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-18T10:20:45.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\B\\PMS\\AppAPI\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "AppAPI\\Controllers\\CustomerController.cs",
+              "ToolTip": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\B\\PMS\\AppAPI\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "AppAPI\\Controllers\\CustomerController.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAowC0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-18T09:53:28.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\B\\PMS\\AppAPI\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "AppAPI\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\B\\PMS\\AppAPI\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "AppAPI\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAA/wCsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-18T09:50:46.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\B\\PMS\\AppAPI\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "AppAPI\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\B\\PMS\\AppAPI\\WeatherForecast.cs",
+              "RelativeToolTip": "AppAPI\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-18T09:50:19.047Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CustomerService.cs",
+              "DocumentMoniker": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\B\\PMS\\BLL\\Services\\CustomerService.cs",
+              "RelativeDocumentMoniker": "BLL\\Services\\CustomerService.cs",
+              "ToolTip": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\B\\PMS\\BLL\\Services\\CustomerService.cs",
+              "RelativeToolTip": "BLL\\Services\\CustomerService.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAA+wCsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-18T09:49:54.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\B\\PMS\\BLL\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "BLL\\Services\\ProductService.cs",
+              "ToolTip": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\B\\PMS\\BLL\\Services\\ProductService.cs",
+              "RelativeToolTip": "BLL\\Services\\ProductService.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAwwCoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-18T09:46:47.416Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\B\\PMS\\DAL\\EF\\Tables\\Customer.cs",
+              "RelativeDocumentMoniker": "DAL\\EF\\Tables\\Customer.cs",
+              "ToolTip": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\B\\PMS\\DAL\\EF\\Tables\\Customer.cs",
+              "RelativeToolTip": "DAL\\EF\\Tables\\Customer.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-18T09:44:42.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CustomerModel.cs",
+              "DocumentMoniker": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\B\\PMS\\BLL\\Models\\CustomerModel.cs",
+              "RelativeDocumentMoniker": "BLL\\Models\\CustomerModel.cs",
+              "ToolTip": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\B\\PMS\\BLL\\Models\\CustomerModel.cs",
+              "RelativeToolTip": "BLL\\Models\\CustomerModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAowAoAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-18T09:44:36.768Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\B\\PMS\\DAL\\EF\\Tables\\Product.cs",
+              "RelativeDocumentMoniker": "DAL\\EF\\Tables\\Product.cs",
+              "ToolTip": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\B\\PMS\\DAL\\EF\\Tables\\Product.cs",
+              "RelativeToolTip": "DAL\\EF\\Tables\\Product.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAA1wA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-18T09:44:23.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductModel.cs",
+              "DocumentMoniker": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\B\\PMS\\BLL\\Models\\ProductModel.cs",
+              "RelativeDocumentMoniker": "BLL\\Models\\ProductModel.cs",
+              "ToolTip": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\B\\PMS\\BLL\\Models\\ProductModel.cs",
+              "RelativeToolTip": "BLL\\Models\\ProductModel.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAiwAgAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-18T09:44:15.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "BLL",
+              "DocumentMoniker": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\B\\PMS\\BLL\\BLL.csproj",
+              "RelativeDocumentMoniker": "BLL\\BLL.csproj",
+              "ToolTip": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\B\\PMS\\BLL\\BLL.csproj",
+              "RelativeToolTip": "BLL\\BLL.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-08-18T09:43:50.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "OrderDetailRepo.cs",
+              "DocumentMoniker": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\B\\PMS\\DAL\\Repos\\OrderDetailRepo.cs",
+              "RelativeDocumentMoniker": "DAL\\Repos\\OrderDetailRepo.cs",
+              "ToolTip": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\B\\PMS\\DAL\\Repos\\OrderDetailRepo.cs",
+              "RelativeToolTip": "DAL\\Repos\\OrderDetailRepo.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAmwCEAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-18T09:42:50.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "OrderRepo.cs",
+              "DocumentMoniker": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\B\\PMS\\DAL\\Repos\\OrderRepo.cs",
+              "RelativeDocumentMoniker": "DAL\\Repos\\OrderRepo.cs",
+              "ToolTip": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\B\\PMS\\DAL\\Repos\\OrderRepo.cs",
+              "RelativeToolTip": "DAL\\Repos\\OrderRepo.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAmwCIAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-18T09:40:47.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CustomerRepo.cs",
+              "DocumentMoniker": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\B\\PMS\\DAL\\Repos\\CustomerRepo.cs",
+              "RelativeDocumentMoniker": "DAL\\Repos\\CustomerRepo.cs",
+              "ToolTip": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\B\\PMS\\DAL\\Repos\\CustomerRepo.cs",
+              "RelativeToolTip": "DAL\\Repos\\CustomerRepo.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAArwBoAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-18T09:39:26.005Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ProductRepo.cs",
+              "DocumentMoniker": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\B\\PMS\\DAL\\Repos\\ProductRepo.cs",
+              "RelativeDocumentMoniker": "DAL\\Repos\\ProductRepo.cs",
+              "ToolTip": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\B\\PMS\\DAL\\Repos\\ProductRepo.cs",
+              "RelativeToolTip": "DAL\\Repos\\ProductRepo.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAA/wCUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-18T09:36:50.593Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\B\\PMS\\AppAPI\\Program.cs",
+              "RelativeDocumentMoniker": "AppAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\B\\PMS\\AppAPI\\Program.cs",
+              "RelativeToolTip": "AppAPI\\Program.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAswBgAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-18T09:35:50.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\B\\PMS\\AppAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "AppAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\B\\PMS\\AppAPI\\appsettings.json",
+              "RelativeToolTip": "AppAPI\\appsettings.json",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAkwAkAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-08-18T09:32:50.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\B\\PMS\\DAL\\Class1.cs",
+              "RelativeDocumentMoniker": "DAL\\Class1.cs",
+              "ToolTip": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\B\\PMS\\DAL\\Class1.cs",
+              "RelativeToolTip": "DAL\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-18T09:32:20.275Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\B\\PMS\\BLL\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "BLL\\MappingProfile.cs",
+              "ToolTip": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\B\\PMS\\BLL\\MappingProfile.cs",
+              "RelativeToolTip": "BLL\\MappingProfile.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAmwAsAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-18T09:32:11.614Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
